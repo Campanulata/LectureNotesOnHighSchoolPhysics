@@ -1,0 +1,2611 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  27 JUN 2020 20:58
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/tylor/微云同步助手(951892043)/LaTeX/LectureNotesOnHighSchoolPhysics/高中物理学讲义
+(/Users/tylor/微云同步助手(951892043)/LaTeX/LectureNotesOnHighSchoolPhysics/高中物理学讲义.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (./elegantbook.cls
+Document Class: elegantbook 2020/04/12 v3.11 ElegantBook document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count163
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count164
+\c@chapter=\count165
+\c@section=\count166
+\c@subsection=\count167
+\c@subsubsection=\count168
+\c@paragraph=\count169
+\c@subparagraph=\count170
+\c@figure=\count171
+\c@table=\count172
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen135
+\Hy@linkcounter=\count173
+\Hy@pagecounter=\count174
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count175
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count176
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen136
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count177
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count178
+\c@Item=\count179
+\c@Hfootnote=\count180
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box45
+\c@Hy@AnnotLevel=\count181
+\HyField@AnnotCount=\count182
+\Fld@listcount=\count183
+\c@bookmark@seq@number=\count184
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip49
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 104.
+Package hyperref Info: Option `unicode' set `true' on input line 104.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 104.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 104.
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 104.
+Package hyperref Info: Option `plainpages' set `false' on input line 104.
+Package hyperref Info: Option `linktocpage' set `true' on input line 104.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count185
+\Gm@cntv=\count186
+\c@Gm@tempcnt=\count187
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/ctex.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count188
+\l__pdf_internal_box=\box46
+\g__pdf_backend_object_int=\count189
+\g__pdf_backend_annotation_int=\count190
+))
+Package: ctex 2019/05/29 v2.4.16 Chinese adapter in LaTeX (CTEX)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count191
+\g__xparse_grabber_int=\count192
+\l__xparse_m_args_int=\count193
+\l__xparse_v_nesting_int=\count194
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count195
+\l__ctex_tmp_box=\box47
+\l__ctex_tmp_dim=\dimen147
+\g__ctex_section_depth_int=\count196
+\g__ctex_font_size_int=\count197
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2019/05/29 v2.4.16 XeLaTeX adapter (CTEX)
+ (/usr/local/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2020/02/18 v3.8.2 Typesetting CJK scripts with XeLaTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2020-03-06 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen148
+\l__xtemplate_tmp_int=\count198
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip50
+)
+\l__xeCJK_tmp_int=\count199
+\l__xeCJK_tmp_box=\box48
+\l__xeCJK_tmp_dim=\dimen149
+\l__xeCJK_tmp_skip=\skip51
+\g__xeCJK_space_factor_int=\count266
+\l__xeCJK_begin_int=\count267
+\l__xeCJK_end_int=\count268
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip52
+\g__xeCJK_node_int=\count269
+\c__xeCJK_CJK_node_dim=\dimen150
+\c__xeCJK_CJK-space_node_dim=\dimen151
+\c__xeCJK_default_node_dim=\dimen152
+\c__xeCJK_default-space_node_dim=\dimen153
+\c__xeCJK_CJK-widow_node_dim=\dimen154
+\c__xeCJK_normalspace_node_dim=\dimen155
+\l__xeCJK_ccglue_skip=\skip53
+\l__xeCJK_ecglue_skip=\skip54
+\l__xeCJK_punct_kern_skip=\skip55
+\l__xeCJK_last_penalty_int=\count270
+\l__xeCJK_last_bound_dim=\dimen156
+\l__xeCJK_last_kern_dim=\dimen157
+\l__xeCJK_widow_penalty_int=\count271
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2302.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen158
+\l__xeCJK_mixed_punct_width_dim=\dimen159
+\l__xeCJK_middle_punct_width_dim=\dimen160
+\l__xeCJK_fixed_margin_width_dim=\dimen161
+\l__xeCJK_mixed_margin_width_dim=\dimen162
+\l__xeCJK_middle_margin_width_dim=\dimen163
+\l__xeCJK_bound_punct_width_dim=\dimen164
+\l__xeCJK_bound_margin_width_dim=\dimen165
+\l__xeCJK_margin_minimum_dim=\dimen166
+\l__xeCJK_kerning_total_width_dim=\dimen167
+\l__xeCJK_same_align_margin_dim=\dimen168
+\l__xeCJK_different_align_margin_dim=\dimen169
+\l__xeCJK_kerning_margin_width_dim=\dimen170
+\l__xeCJK_kerning_margin_minimum_dim=\dimen171
+\l__xeCJK_bound_dim=\dimen172
+\l__xeCJK_reverse_bound_dim=\dimen173
+\l__xeCJK_margin_dim=\dimen174
+\l__xeCJK_minimum_bound_dim=\dimen175
+\l__xeCJK_kerning_margin_dim=\dimen176
+\g__xeCJK_family_int=\count272
+\l__xeCJK_fam_int=\count273
+\g__xeCJK_fam_allocation_int=\count274
+\l__xeCJK_verb_case_int=\count275
+\l__xeCJK_verb_exspace_skip=\skip56
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count276
+\l__fontspec_language_int=\count277
+\l__fontspec_strnum_int=\count278
+\l__fontspec_tmp_int=\count279
+\l__fontspec_tmpa_int=\count280
+\l__fontspec_tmpb_int=\count281
+\l__fontspec_tmpc_int=\count282
+\l__fontspec_em_int=\count283
+\l__fontspec_emdef_int=\count284
+\l__fontspec_strong_int=\count285
+\l__fontspec_strongdef_int=\count286
+\l__fontspec_tmpa_dim=\dimen177
+\l__fontspec_tmpb_dim=\dimen178
+\l__fontspec_tmpc_dim=\dimen179
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2020/02/18 v3.8.2 Configuration file for xeCJK package
+)) (/usr/local/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2020/02/18 v3.8.2 xeCJK font effect
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box49
+\UL@hyphenbox=\box50
+\UL@skip=\skip57
+\UL@hook=\toks17
+\UL@height=\dimen180
+\UL@pe=\count287
+\UL@pixel=\dimen181
+\ULC@box=\box51
+Package: ulem 2019/11/18
+\ULdepth=\dimen182
+)
+\l__xeCJK_space_skip=\skip58
+\c__xeCJK_ulem-begin_node_dim=\dimen183
+\c__xeCJK_null_box=\box52
+\l__xeCJK_fntef_box=\box53
+\l__xeCJK_under_symbol_box=\box54
+\c__xeCJK_filll_skip=\skip59
+)
+\ccwd=\dimen184
+\l__ctex_ccglue_skip=\skip60
+)
+\l__ctex_ziju_dim=\dimen185
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count288
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-plain.def
+File: ctex-scheme-plain.def 2019/05/29 v2.4.16 Plain scheme for generic (CTEX)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+)
+
+Package fontspec Info: Could not resolve font "FZNewKai-Z03/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FZHei-B01/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FZNewShuSong-Z10/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'FZNewShuSong-Z10(0)' created for font
+(fontspec)             'FZNewShuSong-Z10' with options
+(fontspec)             [Script={CJK},BoldFont={FZHei-B01},ItalicFont={FZNewKai-Z03}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FZNewShuSong-Z10/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"FZHei-B01/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"FZNewKai-Z03/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2020/03/02 v1.625
+ `newtxtext' v1.625, 2020/03/02 Text macros taking advantage of TeX-Gyre Termes fonts (msharpe) (/usr/local/texlive/2020/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+\ntx@fs=\dimen186
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count289
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 112.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 112.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
+)
+LaTeX Info: Redefining \textin on input line 99.
+\ntxt@cntz=\count290
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 263.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2018/03/30 v0.5 Package to support minimal working examples (MWE)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+)
+\Gin@req@height=\dimen187
+\Gin@req@width=\dimen188
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count291
+\c@Blindtext=\count292
+\c@blind@countparstart=\count293
+\blind@countxx=\count294
+\blindtext@numBlindtext=\count295
+\blind@countyy=\count296
+\c@blindlist=\count297
+\c@blindlistlevel=\count298
+\c@blindlist@level=\count299
+\blind@listitem=\count300
+\c@blind@listcount=\count301
+\c@blind@levelcount=\count302
+\blind@mathformula=\count303
+\blind@Mathformula=\count304
+\c@blind@randomcount=\count305
+\c@blind@randommax=\count306
+\c@blind@pangramcount=\count307
+\c@blind@pangrammax=\count308
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks20
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip61
+\enit@outerparindent=\dimen189
+\enit@toks=\toks21
+\enit@inbox=\box55
+\enit@count@id=\count309
+\enitdp@description=\count310
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen190
+\captionmargin@=\dimen191
+\captionwidth=\dimen192
+\caption@tempdima=\dimen193
+\caption@indent=\dimen194
+\caption@parindent=\dimen195
+\caption@hangindent=\dimen196
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count311
+\c@continuedfloat=\count312
+Package caption Info: hyperref package is loaded.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip62
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen197
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen198
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count313
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count314
+\leftroot@=\count315
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count316
+\DOTSCASE@=\count317
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen199
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count318
+\c@MaxMatrixCols=\count319
+\dotsspace@=\muskip18
+\c@parentequation=\count320
+\dspbrk@lvl=\count321
+\tag@help=\toks23
+\row@=\count322
+\column@=\count323
+\maxfields@=\count324
+\andhelp@=\toks24
+\eqnshift@=\dimen256
+\alignsep@=\dimen257
+\tagshift@=\dimen258
+\tagwidth@=\dimen259
+\totwidth@=\dimen260
+\lineht@=\dimen261
+\@envbody=\toks25
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen262
+\lightrulewidth=\dimen263
+\cmidrulewidth=\dimen264
+\belowrulesep=\dimen265
+\belowbottomsep=\dimen266
+\aboverulesep=\dimen267
+\abovetopsep=\dimen268
+\cmidrulesep=\dimen269
+\cmidrulekern=\dimen270
+\defaultaddspace=\dimen271
+\@cmidla=\count325
+\@cmidlb=\count326
+\@aboverulesep=\dimen272
+\@belowrulesep=\dimen273
+\@thisruleclass=\count327
+\@lastruleclass=\count328
+\@thisrulewidth=\dimen274
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count329
+\mult@box=\box58
+\multicol@leftmargin=\dimen275
+\c@unbalance=\count330
+\c@collectmore=\count331
+\doublecol@number=\count332
+\multicoltolerance=\count333
+\multicolpretolerance=\count334
+\full@width=\dimen276
+\page@free=\dimen277
+\premulticols=\dimen278
+\postmulticols=\dimen279
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box59
+\last@line=\box60
+\maxbalancingoverflow=\dimen280
+\mult@rightbox=\box61
+\mult@grightbox=\box62
+\mult@gfirstbox=\box63
+\mult@firstbox=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\c@minrows=\count335
+\c@columnbadness=\count336
+\c@finalcolumnbadness=\count337
+\last@try=\dimen281
+\multicolovershoot=\dimen282
+\multicolundershoot=\dimen283
+\mult@nat@firstbox=\box102
+\colbreak@box=\box103
+\mc@col@check@num=\count338
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip67
+\multirow@cntb=\count339
+\multirow@dima=\skip68
+\bigstrutjot=\dimen284
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count340
+\FV@InFile=\read2
+\FV@TabBox=\box104
+\c@FancyVerbLine=\count341
+\FV@StepNumber=\count342
+\FV@OutFile=\write4
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen285
+\ar@mcellbox=\box105
+\extrarowheight=\dimen286
+\NC@list=\toks27
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box106
+)
+\rotheadsize=\dimen287
+\c@nlinenum=\count343
+\TeXr@lab=\toks28
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/hologo/hologo.sty
+Package: hologo 2019/12/05 v1.14 A logo collection with bookmark support (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/gbt7714/gbt7714.sty
+Package: gbt7714 2020/03/14 v2.0.1 GB/T 7714-2015 BibTeX Style
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip71
+\bibsep=\skip72
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count344
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/xpatch/xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen288
+\pgfutil@tempdimb=\dimen289
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box107
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen290
+\pgf@y=\dimen291
+\pgf@xa=\dimen292
+\pgf@ya=\dimen293
+\pgf@xb=\dimen294
+\pgf@yb=\dimen295
+\pgf@xc=\dimen296
+\pgf@yc=\dimen297
+\pgf@xd=\dimen298
+\pgf@yd=\dimen299
+\w@pgf@writea=\write5
+\r@pgf@reada=\read3
+\c@pgf@counta=\count345
+\c@pgf@countb=\count346
+\c@pgf@countc=\count347
+\c@pgf@countd=\count348
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count349
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-xetex.def
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)
+\pgfsys@objnum=\count350
+))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count351
+\pgfsyssoftpath@bigbuffer@items=\count352
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen300
+\pgfmath@count=\count353
+\pgfmath@box=\box108
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count354
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen301
+\pgf@picmaxx=\dimen302
+\pgf@picminy=\dimen303
+\pgf@picmaxy=\dimen304
+\pgf@pathminx=\dimen305
+\pgf@pathmaxx=\dimen306
+\pgf@pathminy=\dimen307
+\pgf@pathmaxy=\dimen308
+\pgf@xx=\dimen309
+\pgf@xy=\dimen310
+\pgf@yx=\dimen311
+\pgf@yy=\dimen312
+\pgf@zx=\dimen313
+\pgf@zy=\dimen314
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen315
+\pgf@path@lasty=\dimen316
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen317
+\pgf@shorten@start@additional=\dimen318
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box109
+\pgf@hbox=\box110
+\pgf@layerbox@main=\box111
+\pgf@picture@serial@count=\count355
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen319
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen320
+\pgf@pt@y=\dimen321
+\pgf@pt@temp=\dimen322
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen323
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen324
+\pgf@sys@shading@range@num=\count356
+\pgf@shadingcount=\count357
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box112
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box113
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen325
+\pgf@nodesepend=\dimen326
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen327
+\pgffor@skip=\dimen328
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count358
+\pgfplotmarksize=\dimen329
+)
+\tikz@lastx=\dimen330
+\tikz@lasty=\dimen331
+\tikz@lastxsaved=\dimen332
+\tikz@lastysaved=\dimen333
+\tikz@lastmovetox=\dimen334
+\tikz@lastmovetoy=\dimen335
+\tikzleveldistance=\dimen336
+\tikzsiblingdistance=\dimen337
+\tikz@figbox=\box114
+\tikz@figbox@bg=\box115
+\tikz@tempbox=\box116
+\tikz@tempbox@bg=\box117
+\tikztreelevel=\count359
+\tikznumberofchildren=\count360
+\tikznumberofcurrentchild=\count361
+\tikz@fig@count=\count362
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count363
+\pgfmatrixcurrentcolumn=\count364
+\pgf@matrix@numberofcolumns=\count365
+)
+\tikz@expandcount=\count366
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@layerbox@background=\box118
+\pgf@layerboxsaved@background=\box119
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box120
+\beforetitleunit=\skip73
+\aftertitleunit=\skip74
+\ttl@plus=\dimen338
+\ttl@minus=\dimen339
+\ttl@toksa=\toks41
+\titlewidth=\dimen340
+\titlewidthlast=\dimen341
+\titlewidthfirst=\dimen342
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titleps.sty)) (/usr/local/texlive/2020/texmf-dist/tex/latex/apptools/apptools.sty
+Package: apptools 2012/11/28 v1.0 Tools for customizing appendices
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count367
+\c@@ppsavesec=\count368
+\c@@ppsaveapp=\count369
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/manfnt/manfnt.sty
+Package: manfnt 1999/07/010.2LaTeX2e manfnt package
+\dbend@height=\skip75
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/bbding/bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2019/11/15 version 4.22 text color boxes
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks42
+\verbatim@line=\toks43
+\verbatim@in@stream=\read4
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box121
+\tcb@upperbox=\box122
+\tcb@lowerbox=\box123
+\tcb@phantombox=\box124
+\c@tcbbreakpart=\count370
+\c@tcblayer=\count371
+\tcolorbox@number=\count372
+\tcb@temp=\box125
+\tcb@temp=\box126
+\tcb@temp=\box127
+\tcb@temp=\box128
+\tcb@out=\write6
+\tcb@record@out=\write7
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '4.22'
+\c@tcbrastercolumn=\count373
+\c@tcbrasterrow=\count374
+\c@tcbraster=\count375
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '4.22'
+\tcb@waterbox=\box129
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.22'
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '4.22'
+\tcb@testbox=\box130
+\tcb@totalupperbox=\box131
+\tcb@totallowerbox=\box132
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '4.22'
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '4.22'
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '4.22'
+\tcbfitdim=\dimen343
+\tcb@lowerfitdim=\dimen344
+\tcb@upperfitdim=\dimen345
+\tcb@cur@hbadness=\count376
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
+Library (tcolorbox): 'tcbxparse.code.tex' version '4.22'
+))
+\c@tcb@cnt@definition=\count377
+\c@tcb@cnt@theorem=\count378
+\c@tcb@cnt@postulate=\count379
+\c@tcb@cnt@axiom=\count380
+\c@tcb@cnt@proposition=\count381
+\c@tcb@cnt@corollary=\count382
+\c@tcb@cnt@lemma=\count383
+\c@exam=\count384
+\c@exer=\count385
+\c@prob=\count386
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/adforn/adforn.sty
+Package: adforn 2019/10/13 v1.1b adforn CFR
+LaTeX Font Info:    Trying to load font information for U+OrnementsADF on input line 4.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/adforn/uornementsadf.fd)) (/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip76
+\f@nch@O@elh=\skip77
+\f@nch@O@erh=\skip78
+\f@nch@O@olh=\skip79
+\f@nch@O@orh=\skip80
+\f@nch@O@elf=\skip81
+\f@nch@O@erf=\skip82
+\f@nch@O@olf=\skip83
+\f@nch@O@orf=\skip84
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count387
+\lst@gtempboxa=\box133
+\lst@token=\toks44
+\lst@length=\count388
+\lst@currlwidth=\dimen346
+\lst@column=\count389
+\lst@pos=\count390
+\lst@lostspace=\dimen347
+\lst@width=\dimen348
+\lst@newlines=\count391
+\lst@lineno=\count392
+\lst@maxwidth=\dimen349
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count393
+\lst@skipnumbers=\count394
+\lst@framebox=\box134
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+LaTeX Info: Redefining \bm on input line 209.
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip85
+\LTright=\skip86
+\LTpre=\skip87
+\LTpost=\skip88
+\LTchunksize=\count395
+\LTcapwidth=\dimen350
+\LT@head=\box135
+\LT@firsthead=\box136
+\LT@foot=\box137
+\LT@lastfoot=\box138
+\LT@cols=\count396
+\LT@rows=\count397
+\c@LT@tables=\count398
+\c@LT@chunks=\count399
+\LT@p@ftn=\toks45
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/extarrows/extarrows.sty
+Package: extarrows 2020/03/12 v1.2.0 Some extensible arrows
+) (/usr/local/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+Package: xeCJK-listings 2020/02/18 v3.8.2 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count400
+\l__xeCJK_listings_flag_int=\count401
+)
+
+LaTeX Warning: Unused global option(s):
+    [10.5pt,mac].
+
+(./高中物理学讲义.aux (./chapter01.aux) (./chapter02.aux) (./chapter03.aux) (./chapter04.aux) (./chapter05.aux) (./chapter06.aux) (./chapter07.aux) (./chapter08.aux) (./chapter09.aux))
+\openout1 = `高中物理学讲义.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+\AtBeginShipoutBox=\box139
+Package hyperref Info: Link coloring ON on input line 21.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count402
+)
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+ (./高中物理学讲义.out) (./高中物理学讲义.out)
+\@outlinefile=\write8
+\openout8 = `高中物理学讲义.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(72.26997pt, 700.5069pt, 72.26997pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=700.5069pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-73.12352pt
+* \headheight=61.74242pt
+* \headsep=11.38109pt
+* \topskip=10.0pt
+* \footskip=34.1433pt
+* \marginparwidth=61.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 21.
+\c@mv@tabular=\count403
+\c@mv@boldtabular=\count404
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks46
+\footnotemargin=\dimen351
+\c@pp@next@reset=\count405
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
+) ABD: EveryShipout initializing macros
+\c@lstlisting=\count406
+Package hyperref Info: Option `pageanchor' set `false' on input line 23.
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(0.0pt, 597.50787pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 845.04684pt, 0.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=597.50787pt
+* \textheight=845.04684pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-145.3935pt
+* \headheight=61.74242pt
+* \headsep=11.38109pt
+* \topskip=10.0pt
+* \footskip=34.1433pt
+* \marginparwidth=61.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: ./figure/cover.jpg Graphic file (type bmp)
+<./figure/cover.jpg>
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 23.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 24.88pt on input line 23.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 23.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 23.
+
+Package fontspec Info: Could not resolve font "FZNewKai-Z03/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FZNewKai-Z03/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FZNewKai-Z03/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FZNewKai-Z03(0)' created for font
+(fontspec)             'FZNewKai-Z03' with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FZNewKai-Z03/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+File: ./figure/logo-blue.png Graphic file (type bmp)
+<./figure/logo-blue.png>
+ [1
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 17.28pt on input line 28.
+ (./高中物理学讲义.toc [1
+
+
+
+])
+\tf@toc=\write9
+\openout9 = `高中物理学讲义.toc'.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.0pt on input line 31.
+ [2]
+\openout2 = `chapter01.aux'.
+
+ (./chapter01.tex
+第\nobreakspace {}一\nobreakspace {}章 1.
+File: media/image5.png Graphic file (type bmp)
+<media/image5.png>
+[1
+
+
+
+] [2]
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 72.
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+
+Overfull \hbox (54.63544pt too wide) in alignment at lines 103--107
+ [] [] [] 
+ []
+
+
+Overfull \hbox (54.63544pt too wide) in alignment at lines 107--114
+ [] [] [] 
+ []
+
+[3]
+File: media/image14.png Graphic file (type bmp)
+<media/image14.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [4]
+File: media/image15.png Graphic file (type bmp)
+<media/image15.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+File: media/image16.png Graphic file (type bmp)
+<media/image16.png>
+ [5] [6]
+File: media/image23.png Graphic file (type bmp)
+<media/image23.png>
+File: media/image24.png Graphic file (type bmp)
+<media/image24.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+ [7]
+File: media/image26.png Graphic file (type bmp)
+<media/image26.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [8]
+File: media/image29.png Graphic file (type bmp)
+<media/image29.png>
+File: media/image30.png Graphic file (type bmp)
+<media/image30.png>
+ [9]
+File: media/image33.png Graphic file (type bmp)
+<media/image33.png>
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+ [10]
+File: media/image35.png Graphic file (type bmp)
+<media/image35.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [11])
+\openout2 = `chapter02.aux'.
+
+ (./chapter02.tex
+第\nobreakspace {}二\nobreakspace {}章 2.
+
+Overfull \hbox (32.53763pt too wide) in alignment at lines 34--42
+ [] [] [] 
+ []
+
+
+Overfull \hbox (68.57187pt too wide) in paragraph at lines 45--47
+[]|[]| 
+ []
+
+
+Overfull \hbox (68.57187pt too wide) in paragraph at lines 60--62
+[]|[]| 
+ []
+
+
+Overfull \hbox (32.53763pt too wide) in alignment at lines 42--74
+ [] [] [] 
+ []
+
+[12
+
+
+
+]
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 83--83
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 方
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 83--83
+\TU/FZNewShuSong-Z10(0)/m/n/10 法| 
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 85--87
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 假
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 85--87
+\TU/FZNewShuSong-Z10(0)/m/n/10 设
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 85--87
+\TU/FZNewShuSong-Z10(0)/m/n/10 法| 
+ []
+
+File: media/image40.png Graphic file (type bmp)
+<media/image40.png>
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 91--93
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 替
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 91--93
+\TU/FZNewShuSong-Z10(0)/m/n/10 换
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 91--93
+\TU/FZNewShuSong-Z10(0)/m/n/10 法| 
+ []
+
+File: media/image41.png Graphic file (type bmp)
+<media/image41.png>
+
+Overfull \hbox (2.56657pt too wide) in paragraph at lines 94--94
+ [] 
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 97--99
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 状
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 97--99
+\TU/FZNewShuSong-Z10(0)/m/n/10 态
+ []
+
+
+Overfull \hbox (4.30954pt too wide) in paragraph at lines 97--99
+\TU/FZNewShuSong-Z10(0)/m/n/10 法| 
+ []
+
+File: media/image42.png Graphic file (type bmp)
+<media/image42.png>
+
+Underfull \vbox (badness 10000) detected at line 103
+ []
+
+File: media/image43.png Graphic file (type bmp)
+<media/image43.png>
+File: media/image44.png Graphic file (type bmp)
+<media/image44.png>
+[13]
+File: media/image45.png Graphic file (type bmp)
+<media/image45.png>
+File: media/image46.png Graphic file (type bmp)
+<media/image46.png>
+File: media/image47.png Graphic file (type bmp)
+<media/image47.png>
+Missing character: There is no 　 in font cmr10!
+ [14]
+File: media/image48.png Graphic file (type bmp)
+<media/image48.png>
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+ [15]
+File: media/image50.png Graphic file (type bmp)
+<media/image50.png>
+File: media/image51.png Graphic file (type bmp)
+<media/image51.png>
+ [16]
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image52.png Graphic file (type bmp)
+<media/image52.png>
+Missing character: There is no ， in font cmr10!
+File: media/image53.png Graphic file (type bmp)
+<media/image53.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image54.png Graphic file (type bmp)
+<media/image54.png>
+ [17]
+File: media/image61.png Graphic file (type bmp)
+<media/image61.png>
+ [18]
+File: media/image64.png Graphic file (type bmp)
+<media/image64.png>
+File: media/image65.png Graphic file (type bmp)
+<media/image65.png>
+File: media/image66.png Graphic file (type bmp)
+<media/image66.png>
+File: media/image67.png Graphic file (type bmp)
+<media/image67.png>
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+ [19]
+File: media/image68.png Graphic file (type bmp)
+<media/image68.png>
+File: media/image69.png Graphic file (type bmp)
+<media/image69.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [20]
+File: media/image70.png Graphic file (type bmp)
+<media/image70.png>
+File: media/image71.png Graphic file (type bmp)
+<media/image71.png>
+File: media/image72.png Graphic file (type bmp)
+<media/image72.png>
+File: media/image73.png Graphic file (type bmp)
+<media/image73.png>
+ [21]
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image74.png Graphic file (type bmp)
+<media/image74.png>
+ [22]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.0pt on input line 539.
+ [23]
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image82.png Graphic file (type bmp)
+<media/image82.png>
+File: media/image83.png Graphic file (type bmp)
+<media/image83.png>
+ [24]
+File: media/image84.png Graphic file (type bmp)
+<media/image84.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [25]
+File: media/image85.png Graphic file (type bmp)
+<media/image85.png>
+File: media/image86.png Graphic file (type bmp)
+<media/image86.png>
+ [26]
+File: media/image87.png Graphic file (type bmp)
+<media/image87.png>
+File: media/image88.png Graphic file (type bmp)
+<media/image88.png>
+) [27]
+\openout2 = `chapter03.aux'.
+
+ (./chapter03.tex
+第\nobreakspace {}三\nobreakspace {}章 3.
+[28
+
+
+
+]
+File: media/image95.png Graphic file (type bmp)
+<media/image95.png>
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+ [29]
+File: media/image99.png Graphic file (type bmp)
+<media/image99.png>
+ [30]
+File: media/image100.png Graphic file (type bmp)
+<media/image100.png>
+File: media/image101.png Graphic file (type bmp)
+<media/image101.png>
+File: media/image102.png Graphic file (type bmp)
+<media/image102.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [31]
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image104.png Graphic file (type bmp)
+<media/image104.png>
+File: media/image105.png Graphic file (type bmp)
+<media/image105.png>
+File: media/image106.png Graphic file (type bmp)
+<media/image106.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [32]
+File: media/image107.png Graphic file (type bmp)
+<media/image107.png>
+File: media/image108.png Graphic file (type bmp)
+<media/image108.png>
+File: media/image109.png Graphic file (type bmp)
+<media/image109.png>
+File: media/image110.png Graphic file (type bmp)
+<media/image110.png>
+ [33]
+Overfull \hbox (30.31126pt too wide) in alignment at lines 284--288
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 292--293
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 物 体 对 支 持 物 的 压 力
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 293--294
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 物 体 的 加 速 度 方 向 竖
+ []
+
+
+Overfull \hbox (30.31126pt too wide) in alignment at lines 288--311
+ [] [] [] [] 
+ []
+
+[34]
+File: media/image116.png Graphic file (type bmp)
+<media/image116.png>
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+ [35]
+Overfull \hbox (20.53764pt too wide) in alignment at lines 376--380
+ [] [] 
+ []
+
+
+Overfull \hbox (20.53764pt too wide) in alignment at lines 380--390
+ [] [] 
+ []
+
+File: media/image117.png Graphic file (type bmp)
+<media/image117.png>
+File: media/image118.png Graphic file (type bmp)
+<media/image118.png>
+[36]
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+File: media/image119.png Graphic file (type bmp)
+<media/image119.png>
+File: media/image120.png Graphic file (type bmp)
+<media/image120.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image121.png Graphic file (type bmp)
+<media/image121.png>
+ [37]
+File: media/image122.png Graphic file (type bmp)
+<media/image122.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+File: media/image123.png Graphic file (type bmp)
+<media/image123.png>
+File: media/image124.png Graphic file (type bmp)
+<media/image124.png>
+File: media/image125.png Graphic file (type bmp)
+<media/image125.png>
+ [38]
+File: media/image126.png Graphic file (type bmp)
+<media/image126.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+File: media/image127.png Graphic file (type bmp)
+<media/image127.png>
+File: media/image128.png Graphic file (type bmp)
+<media/image128.png>
+File: media/image129.png Graphic file (type bmp)
+<media/image129.png>
+File: media/image130.png Graphic file (type bmp)
+<media/image130.png>
+ [39]
+File: media/image131.png Graphic file (type bmp)
+<media/image131.png>
+File: media/image132.png Graphic file (type bmp)
+<media/image132.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image133.png Graphic file (type bmp)
+<media/image133.png>
+ [40]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 641.
+Missing character: There is no θ in font ntx-Regular-tlf-t1!
+File: media/31.png Graphic file (type bmp)
+<media/31.png>
+ [41]
+
+LaTeX Font Warning: Font shape `TU/FZNewKai-Z03(0)/b/n' undefined
+(Font)              using `TU/FZNewKai-Z03(0)/m/n' instead on input line 685.
+
+
+Package fontspec Info: Could not resolve font "FZFangSong-Z02/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FZFangSong-Z02/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FZFangSong-Z02/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FZFangSong-Z02(0)' created for font
+(fontspec)             'FZFangSong-Z02' with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FZFangSong-Z02/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+[42]
+File: media/33.png Graphic file (type bmp)
+<media/33.png>
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+Overfull \hbox (10.28278pt too wide) in paragraph at lines 769--770
+[]$\OML/cmm/m/it/10 f \OT1/cmr/m/n/10 = [] = \OML/cmm/m/it/10 ^^V[]m[]g \OMS/cmsy/m/n/10 ) \OML/cmm/m/it/10 F[] \OT1/cmr/m/n/10 = []$ 
+ []
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+File: media/34.png Graphic file (type bmp)
+<media/34.png>
+[43]) [44]
+\openout2 = `chapter04.aux'.
+
+ (./chapter04.tex
+第\nobreakspace {}四\nobreakspace {}章 4.
+File: media/image140.png Graphic file (type bmp)
+<media/image140.png>
+[45
+
+
+
+]
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+File: media/image142.png Graphic file (type bmp)
+<media/image142.png>
+ [46]
+File: media/image143.png Graphic file (type bmp)
+<media/image143.png>
+File: media/image144.png Graphic file (type bmp)
+<media/image144.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [47]
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+[]\TU/FZNewShuSong-Z10(0)/m/n/10 时 间
+ []
+
+File: media/image146.png Graphic file (type bmp)
+<media/image146.png>
+
+Overfull \vbox (16.20009pt too high) detected at line 154
+ []
+
+File: media/image147.png Graphic file (type bmp)
+<media/image147.png>
+File: media/image148.png Graphic file (type bmp)
+<media/image148.png>
+File: media/image149.png Graphic file (type bmp)
+<media/image149.png>
+File: media/image150.png Graphic file (type bmp)
+<media/image150.png>
+[48]
+File: media/image151.png Graphic file (type bmp)
+<media/image151.png>
+File: media/image152.png Graphic file (type bmp)
+<media/image152.png>
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image153.png Graphic file (type bmp)
+<media/image153.png>
+ [49]
+File: media/image160.png Graphic file (type bmp)
+<media/image160.png>
+ [50]
+File: media/image161.png Graphic file (type bmp)
+<media/image161.png>
+
+Overfull \hbox (8.24873pt too wide) in paragraph at lines 286--291
+[]|[]| 
+ []
+
+File: media/image162.png Graphic file (type bmp)
+<media/image162.png>
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+[51]
+File: media/image163.png Graphic file (type bmp)
+<media/image163.png>
+File: media/image164.png Graphic file (type bmp)
+<media/image164.png>
+File: media/image165.png Graphic file (type bmp)
+<media/image165.png>
+File: media/image166.png Graphic file (type bmp)
+<media/image166.png>
+File: media/image166.png Graphic file (type bmp)
+<media/image166.png>
+ [52]
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image169.png Graphic file (type bmp)
+<media/image169.png>
+ [53]
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image170.png Graphic file (type bmp)
+<media/image170.png>
+ [54]
+Overfull \hbox (32.53764pt too wide) in alignment at lines 472--476
+ [] [] [] 
+ []
+
+
+Overfull \hbox (152.22133pt too wide) in paragraph at lines 477--479
+[]|[]| 
+ []
+
+
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 483--488
+[]|[]| 
+ []
+
+
+Overfull \hbox (152.22133pt too wide) in paragraph at lines 488--490
+[]|[]| 
+ []
+
+
+Overfull \hbox (162.17888pt too wide) in paragraph at lines 490--494
+[]|[]| 
+ []
+
+
+Overfull \hbox (95.31581pt too wide) in paragraph at lines 494--499
+[]|[]| 
+ []
+
+
+Overfull \hbox (152.22133pt too wide) in paragraph at lines 499--501
+[]|[]| 
+ []
+
+
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 505--512
+[]|[]| 
+ []
+
+
+Overfull \hbox (152.22133pt too wide) in paragraph at lines 512--514
+[]|[]| 
+ []
+
+
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 518--523
+[]|[]| 
+ []
+
+
+Overfull \hbox (152.22133pt too wide) in paragraph at lines 523--525
+[]|[]| 
+ []
+
+
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 529--534
+[]|[]| 
+ []
+
+
+Overfull \hbox (152.22133pt too wide) in paragraph at lines 534--536
+[]|[]| 
+ []
+
+
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 542--545
+[]|[]| 
+ []
+
+
+Overfull \hbox (32.53764pt too wide) in alignment at lines 476--546
+ [] [] [] 
+ []
+
+File: media/image178.png Graphic file (type bmp)
+<media/image178.png>
+Missing character: There is no ω in font cmmi10!
+Missing character: There is no ω in font cmmi10!
+[55]
+Missing character: There is no ω in font cmmi10!
+ [56]
+File: media/image180.png Graphic file (type bmp)
+<media/image180.png>
+File: media/image181.png Graphic file (type bmp)
+<media/image181.png>
+File: media/image182.png Graphic file (type bmp)
+<media/image182.png>
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+ [57]
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+File: media/image184.png Graphic file (type bmp)
+<media/image184.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+ [58]
+File: media/image185.png Graphic file (type bmp)
+<media/image185.png>
+File: media/image186.png Graphic file (type bmp)
+<media/image186.png>
+ [59]
+File: media/image187.png Graphic file (type bmp)
+<media/image187.png>
+File: media/image188.png Graphic file (type bmp)
+<media/image188.png>
+File: media/image189.png Graphic file (type bmp)
+<media/image189.png>
+File: media/image190.png Graphic file (type bmp)
+<media/image190.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [60]
+File: media/image198.png Graphic file (type bmp)
+<media/image198.png>
+File: media/image199.png Graphic file (type bmp)
+<media/image199.png>
+Missing character: There is no · in font cmr10!
+ [61]
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+Missing character: There is no ≈ in font cmr10!
+ [62]
+File: media/image44.png Graphic file (type bmp)
+<media/image44.png>
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+File: media/image201.png Graphic file (type bmp)
+<media/image201.png>
+ [63]
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [64]
+Missing character: There is no · in font cmr10!
+) [65]
+\openout2 = `chapter05.aux'.
+
+ (./chapter05.tex
+第\nobreakspace {}五\nobreakspace {}章 5.
+Missing character: There is no π in font cmmi10!
+
+Overfull \hbox (4.70395pt too wide) in alignment at lines 30--34
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (63.56357pt too wide) in paragraph at lines 50--53
+[]|[]| 
+ []
+
+
+Overfull \hbox (192.34044pt too wide) in paragraph at lines 55--57
+[]|[]| 
+ []
+
+
+Overfull \hbox (192.34044pt too wide) in paragraph at lines 60--63
+[]|[]| 
+ []
+
+
+Overfull \hbox (4.70395pt too wide) in alignment at lines 34--66
+ [] [] [] [] 
+ []
+
+[66
+
+
+
+]
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+ [67]
+File: media/image210.png Graphic file (type bmp)
+<media/image210.png>
+File: media/image211.png Graphic file (type bmp)
+<media/image211.png>
+File: media/image212.png Graphic file (type bmp)
+<media/image212.png>
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+ [68]
+File: media/image213.png Graphic file (type bmp)
+<media/image213.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [69] [70] [71]
+File: media/image223.png Graphic file (type bmp)
+<media/image223.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image224.png Graphic file (type bmp)
+<media/image224.png>
+ [72]
+File: media/image225.png Graphic file (type bmp)
+<media/image225.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [73]
+File: media/image226.png Graphic file (type bmp)
+<media/image226.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+File: media/image227.png Graphic file (type bmp)
+<media/image227.png>
+ [74] [75]
+File: media/image232.png Graphic file (type bmp)
+<media/image232.png>
+File: media/image44.png Graphic file (type bmp)
+<media/image44.png>
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+ [76]
+Underfull \hbox (badness 10000) in paragraph at lines 537--539
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 守 恒
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--549
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 转 化
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 554--556
+\TU/FZNewShuSong-Z10(0)/m/n/10 势 能 的 增 加 量 和 减 少 量，|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--559
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 转 移
+ []
+
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+[77] [78]
+Underfull \hbox (badness 5008) in paragraph at lines 642--642
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 弹 簧 弹 力 的
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 646--646
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 非 重 力 和 弹
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 650--650
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 滑 动 摩 擦 力
+ []
+
+File: media/image240.png Graphic file (type bmp)
+<media/image240.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+[79]
+File: media/image241.png Graphic file (type bmp)
+<media/image241.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [80]
+File: media/image242.png Graphic file (type bmp)
+<media/image242.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+) [81]
+\openout2 = `chapter06.aux'.
+
+ (./chapter06.tex
+第\nobreakspace {}六\nobreakspace {}章 6.
+Missing character: There is no Δ in font cmmi10!
+[82
+
+
+
+] [83]
+File: media/image248.png Graphic file (type bmp)
+<media/image248.png>
+File: media/image249.png Graphic file (type bmp)
+<media/image249.png>
+ [84]
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image250.png Graphic file (type bmp)
+<media/image250.png>
+ [85]
+File: media/image251.png Graphic file (type bmp)
+<media/image251.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+ [86]
+File: media/image252.png Graphic file (type bmp)
+<media/image252.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [87]
+File: media/image253.png Graphic file (type bmp)
+<media/image253.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [88]) [89]
+\openout2 = `chapter07.aux'.
+
+ (./chapter07.tex
+第\nobreakspace {}七\nobreakspace {}章 7.
+[90
+
+
+
+]
+File: media/image260.png Graphic file (type bmp)
+<media/image260.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [91]
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image261.png Graphic file (type bmp)
+<media/image261.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image262.png Graphic file (type bmp)
+<media/image262.png>
+ [92]
+File: media/image263.png Graphic file (type bmp)
+<media/image263.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [93]
+File: media/image264.png Graphic file (type bmp)
+<media/image264.png>
+File: media/image265.png Graphic file (type bmp)
+<media/image265.png>
+File: media/image266.png Graphic file (type bmp)
+<media/image266.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+ [94]
+File: media/image267.png Graphic file (type bmp)
+<media/image267.png>
+ [95] [96]
+Overfull \hbox (6.31126pt too wide) in alignment at lines 325--329
+ [] [] 
+ []
+
+
+Overfull \hbox (6.31126pt too wide) in alignment at lines 329--338
+ [] [] 
+ []
+
+
+Overfull \hbox (20.53764pt too wide) in alignment at lines 342--346
+ [] [] 
+ []
+
+
+Overfull \hbox (20.53764pt too wide) in alignment at lines 346--354
+ [] [] 
+ []
+
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+[97]
+File: media/image276.png Graphic file (type bmp)
+<media/image276.png>
+File: media/image277.png Graphic file (type bmp)
+<media/image277.png>
+File: media/image278.png Graphic file (type bmp)
+<media/image278.png>
+File: media/image279.png Graphic file (type bmp)
+<media/image279.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image280.png Graphic file (type bmp)
+<media/image280.png>
+ [98]
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image282.png Graphic file (type bmp)
+<media/image282.png>
+File: media/image283.png Graphic file (type bmp)
+<media/image283.png>
+File: media/image284.png Graphic file (type bmp)
+<media/image284.png>
+ [99]
+File: media/image285.png Graphic file (type bmp)
+<media/image285.png>
+ [100]
+File: media/image286.png Graphic file (type bmp)
+<media/image286.png>
+ [101]
+Missing character: There is no ⑤ in font ntx-Regular-tlf-t1!
+File: media/image292.png Graphic file (type bmp)
+<media/image292.png>
+ [102]
+File: media/image295.png Graphic file (type bmp)
+<media/image295.png>
+File: media/image296.png Graphic file (type bmp)
+<media/image296.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [103]
+File: media/image297.png Graphic file (type bmp)
+<media/image297.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image298.png Graphic file (type bmp)
+<media/image298.png>
+ [104]
+File: media/image299.png Graphic file (type bmp)
+<media/image299.png>
+File: media/image300.png Graphic file (type bmp)
+<media/image300.png>
+ [105]
+File: media/image301.png Graphic file (type bmp)
+<media/image301.png>
+File: media/image302.png Graphic file (type bmp)
+<media/image302.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [106]) [107]
+\openout2 = `chapter08.aux'.
+
+ (./chapter08.tex
+第\nobreakspace {}八\nobreakspace {}章 8.
+File: media/image307.png Graphic file (type bmp)
+<media/image307.png>
+[108
+
+
+
+]
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 75--79
+[]|[]| 
+ []
+
+
+Overfull \hbox (38.41031pt too wide) in paragraph at lines 79--82
+[]|[]| 
+ []
+
+
+Overfull \hbox (82.79825pt too wide) in paragraph at lines 82--84
+[]|[]| 
+ []
+
+
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 84--88
+[]|[]| 
+ []
+
+
+Overfull \hbox (38.41031pt too wide) in paragraph at lines 88--97
+[]|[]| 
+ []
+
+
+Overfull \hbox (82.79825pt too wide) in paragraph at lines 97--99
+[]|[]| 
+ []
+
+
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 99--103
+[]|[]| 
+ []
+
+
+Overfull \hbox (38.41031pt too wide) in paragraph at lines 103--108
+[]|[]| 
+ []
+
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
+[109]
+File: media/image311.png Graphic file (type bmp)
+<media/image311.png>
+File: media/image312.png Graphic file (type bmp)
+<media/image312.png>
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+File: media/image313.png Graphic file (type bmp)
+<media/image313.png>
+ [110]
+File: media/image314.png Graphic file (type bmp)
+<media/image314.png>
+File: media/image34.png Graphic file (type bmp)
+<media/image34.png>
+ [111] [112]
+File: media/image320.png Graphic file (type bmp)
+<media/image320.png>
+
+Underfull \vbox (badness 10000) detected at line 317
+ []
+
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+[113]
+File: media/image322.png Graphic file (type bmp)
+<media/image322.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image323.png Graphic file (type bmp)
+<media/image323.png>
+ [114]
+File: media/image325.png Graphic file (type bmp)
+<media/image325.png>
+File: media/image326.png Graphic file (type bmp)
+<media/image326.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+) [115]
+\openout2 = `chapter09.aux'.
+
+ (./chapter09.tex
+第\nobreakspace {}九\nobreakspace {}章 9.
+File: media/image335.png Graphic file (type bmp)
+<media/image335.png>
+[116
+
+
+
+]
+Missing character: There is no ⑤ in font ntx-Regular-tlf-t1!
+
+Overfull \hbox (6.65805pt too wide) in paragraph at lines 53--55
+[]|[]| 
+ []
+
+
+Overfull \hbox (6.65805pt too wide) in paragraph at lines 55--57
+[]|[]| 
+ []
+
+
+Overfull \hbox (6.65805pt too wide) in paragraph at lines 57--60
+[]|[]| 
+ []
+
+File: media/image336.png Graphic file (type bmp)
+<media/image336.png>
+File: media/image337.png Graphic file (type bmp)
+<media/image337.png>
+File: media/image338.png Graphic file (type bmp)
+<media/image338.png>
+[117]
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 95--97
+[]|[]| 
+ []
+
+
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 97--100
+[]|[]| 
+ []
+
+File: media/image339.png Graphic file (type bmp)
+<media/image339.png>
+File: media/image340.png Graphic file (type bmp)
+<media/image340.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+[118]
+File: media/image341.png Graphic file (type bmp)
+<media/image341.png>
+Missing character: There is no Ⅰ in font ntx-Regular-tlf-t1!
+File: media/image342.png Graphic file (type bmp)
+<media/image342.png>
+File: media/image343.png Graphic file (type bmp)
+<media/image343.png>
+ [119]
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image345.png Graphic file (type bmp)
+<media/image345.png>
+ [120] [121]
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 269--271
+[]|[]| 
+ []
+
+
+Overfull \hbox (11.66635pt too wide) in paragraph at lines 271--274
+[]|[]| 
+ []
+
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+[122]
+File: media/image353.png Graphic file (type bmp)
+<media/image353.png>
+File: media/image354.png Graphic file (type bmp)
+<media/image354.png>
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image355.png Graphic file (type bmp)
+<media/image355.png>
+File: media/image13.png Graphic file (type bmp)
+<media/image13.png>
+ [123]
+File: media/image358.png Graphic file (type bmp)
+<media/image358.png>
+File: media/image360.png Graphic file (type bmp)
+<media/image360.png>
+File: media/image362.png Graphic file (type bmp)
+<media/image362.png>
+ [124]
+Overfull \hbox (97.02463pt too wide) in paragraph at lines 386--388
+[]|[]| 
+ []
+
+
+Overfull \hbox (66.86305pt too wide) in paragraph at lines 392--397
+[]|[]| 
+ []
+
+
+Overfull \hbox (97.02463pt too wide) in paragraph at lines 397--399
+[]|[]| 
+ []
+
+
+Overfull \hbox (38.41031pt too wide) in paragraph at lines 399--405
+[]|[]| 
+ []
+
+
+Overfull \hbox (97.02463pt too wide) in paragraph at lines 412--414
+[]|[]| 
+ []
+
+[125]
+File: media/image369.png Graphic file (type bmp)
+<media/image369.png>
+File: media/image370.png Graphic file (type bmp)
+<media/image370.png>
+ [126]
+File: media/image371.png Graphic file (type bmp)
+<media/image371.png>
+File: media/image372.png Graphic file (type bmp)
+<media/image372.png>
+File: media/image373.png Graphic file (type bmp)
+<media/image373.png>
+File: media/image374.png Graphic file (type bmp)
+<media/image374.png>
+ [127]
+File: media/image25.png Graphic file (type bmp)
+<media/image25.png>
+File: media/image377.png Graphic file (type bmp)
+<media/image377.png>
+Missing character: There is no Ⅰ in font ntx-Regular-tlf-t1!
+File: media/image378.png Graphic file (type bmp)
+<media/image378.png>
+ [128]
+Overfull \hbox (304.44266pt too wide) in paragraph at lines 552--554
+[]|[]| 
+ []
+
+
+Overfull \hbox (120.35095pt too wide) in paragraph at lines 554--561
+[]|[]| 
+ []
+
+
+Overfull \hbox (82.7687pt too wide) in paragraph at lines 561--565
+[]|[]| 
+ []
+
+
+Overfull \hbox (120.35095pt too wide) in paragraph at lines 565--572
+[]|[]| 
+ []
+
+
+Overfull \hbox (82.7687pt too wide) in paragraph at lines 572--574
+[]|[]| 
+ []
+
+
+Overfull \hbox (120.35095pt too wide) in paragraph at lines 574--583
+[]|[]| 
+ []
+
+) [129]
+附录\nobreakspace {}A A.
+
+Overfull \hbox (43.54936pt too wide) in alignment at lines 3269--3276
+ [] [] [] [] [] [] [] 
+ []
+
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɒ in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ʊ in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ā in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ˈ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ˈ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ˈ in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ˈ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɑ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ˌ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɑ in font ntx-Regular-tlf-t1!
+
+Underfull \hbox (badness 10000) in paragraph at lines 3303--3303
+[]|\T1/ntxtlf/m/n/10 /umaikrn/\TU/FZNewShuSong-Z10(0)/m/n/10 或
+ []
+
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no π in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ʊ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɡ in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ɔ in font ntx-Regular-tlf-t1!
+Missing character: There is no ʊ in font ntx-Regular-tlf-t1!
+Missing character: There is no υ in font ntx-Regular-tlf-t1!
+Missing character: There is no ˈ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ˈ in font ntx-Regular-tlf-t1!
+Missing character: There is no ʌ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɒ in font ntx-Regular-tlf-t1!
+
+Overfull \hbox (43.54936pt too wide) in alignment at lines 3276--3315
+ [] [] [] [] [] [] [] 
+ []
+
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ψ in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ʊ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɡ in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+Missing character: There is no ʊ in font ntx-Regular-tlf-t1!
+Missing character: There is no ɡ in font ntx-Regular-tlf-t1!
+Missing character: There is no ə in font ntx-Regular-tlf-t1!
+
+Overfull \hbox (4.6638pt too wide) in paragraph at lines 3322--3326
+[]|[]| 
+ []
+
+
+Overfull \hbox (43.54936pt too wide) in alignment at lines 3315--3329
+ [] [] [] [] [] [] [] 
+ []
+
+[130
+
+
+]
+附录\nobreakspace {}B B.
+File: media/b1.jpg Graphic file (type bmp)
+<media/b1.jpg>
+
+Overfull \hbox (15.36632pt too wide) in paragraph at lines 3333--3334
+ [] 
+ []
+
+[131
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3336.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3336.
+ (./高中物理学讲义.aux (./chapter01.aux) (./chapter02.aux) (./chapter03.aux) (./chapter04.aux) (./chapter05.aux) (./chapter06.aux) (./chapter07.aux) (./chapter08.aux) (./chapter09.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3336.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3336.
+
+
+Package rerunfilecheck Warning: File `高中物理学讲义.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `高中物理学讲义.out':
+(rerunfilecheck)             Before: 462E4787323CC73D139176E209317407;6871
+(rerunfilecheck)             After:  7DC3EC6B4B33A274E0B2F2EF9E0B46E4;5743.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 38771 strings out of 479418
+ 818747 string characters out of 5884586
+ 1441336 words of memory out of 5000000
+ 55275 multiletter control sequences out of 15000+600000
+ 564288 words of font info for 87 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 68i,12n,126p,959b,894s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on 高中物理学讲义.pdf (134 pages).
