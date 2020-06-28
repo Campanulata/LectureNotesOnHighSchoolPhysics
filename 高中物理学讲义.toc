@@ -135,5 +135,69 @@
 \contentsline {section}{\numberline {9.3}带电粒子在复合场中的运动}{125}{section.9.3}%
 \contentsline {subsection}{\numberline {9.3.1}带电粒子在组合场中的运动问题}{128}{subsection.9.3.1}%
 \contentsline {subsection}{\numberline {9.3.2}带电粒子在复合场中的运动问题}{129}{subsection.9.3.2}%
-\contentsline {chapter}{\numberline {A}希腊字母常用指代意义及其中文读音}{130}{appendix.A}%
-\contentsline {chapter}{\numberline {B}高中物理公式}{131}{appendix.B}%
+\contentsline {chapter}{\numberline {10}电磁感应}{130}{chapter.10}%
+\contentsline {section}{\numberline {10.1}电磁感应现象　楞次定律}{130}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}对电磁感应现象的理解}{131}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}感应电流方向的判断}{132}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}楞次定律的推论应用}{133}{subsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.1.4}三定则一定律的综合应用}{133}{subsection.10.1.4}%
+\contentsline {section}{\numberline {10.2}法拉第电磁感应定律　自感现象}{134}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}对法拉第电磁感应定律的理解}{135}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}导体切割磁感线产生感应电动势}{136}{subsection.10.2.2}%
+\contentsline {subsection}{\numberline {10.2.3}自感现象}{137}{subsection.10.2.3}%
+\contentsline {section}{\numberline {10.3}电磁感应定律的综合应用}{138}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}电磁感应中的电路问题}{139}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.3.2}电磁感应中的动力学问题}{140}{subsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.3.3}电磁感应中的能量问题}{141}{subsection.10.3.3}%
+\contentsline {chapter}{\numberline {11}交变电流　传感器}{142}{chapter.11}%
+\contentsline {section}{\numberline {11.1}交变电流的产生及其变化规律}{142}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}正弦交变电流的产生及其变化规律}{143}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}交变电流``四值''的理解及应用}{144}{subsection.11.1.2}%
+\contentsline {section}{\numberline {11.2}变压器的原理　电能的输送}{145}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}理想变压器的特点与制约关系}{146}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}理想变压器的动态分析}{147}{subsection.11.2.2}%
+\contentsline {subsection}{\numberline {11.2.3}三种特殊的变压器模型}{148}{subsection.11.2.3}%
+\contentsline {subsection}{\numberline {11.2.4}远距离输电}{149}{subsection.11.2.4}%
+\contentsline {chapter}{\numberline {12}波粒二象性　原子结构与原子核}{150}{chapter.12}%
+\contentsline {section}{\numberline {12.1}波粒二象性}{150}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}光电效应的实验规律}{151}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {12.1.2}光电效应的图象分析}{152}{subsection.12.1.2}%
+\contentsline {subsection}{\numberline {12.1.3}光的波粒二象性　物质波}{153}{subsection.12.1.3}%
+\contentsline {section}{\numberline {12.2}原子结构与原子核}{154}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}能级图与氢原子的跃迁}{156}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}原子核的衰变　半衰期}{157}{subsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.2.3}核反应类型与核反应方程}{158}{subsection.12.2.3}%
+\contentsline {subsection}{\numberline {12.2.4}核能的计算}{159}{subsection.12.2.4}%
+\contentsline {chapter}{\numberline {13}热学(选修3-3)}{160}{chapter.13}%
+\contentsline {section}{\numberline {13.1}分子动理论　内能}{160}{section.13.1}%
+\contentsline {subsection}{\numberline {13.1.1}微观量的估计}{162}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.2}分子热运动与布朗运动}{163}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.1.3}分子与分子势能}{164}{subsection.13.1.3}%
+\contentsline {section}{\numberline {13.2}固体、液体和气体}{165}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}固体和液体的性质}{167}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}气体压强的计算}{167}{subsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.2.3}气体实验定律及状态方程的应用}{167}{subsection.13.2.3}%
+\contentsline {section}{\numberline {13.3}热力学定律与能量守恒}{168}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}热力学第一定律}{169}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}热力学第二定律}{170}{subsection.13.3.2}%
+\contentsline {chapter}{\numberline {14}振动和波　光　相对论(选修3-4)}{172}{chapter.14}%
+\contentsline {section}{\numberline {14.1}机械振动}{172}{section.14.1}%
+\contentsline {subsection}{\numberline {14.1.1}简谐运动的五个特征}{173}{subsection.14.1.1}%
+\contentsline {subsection}{\numberline {14.1.2}简谐运动的图象}{174}{subsection.14.1.2}%
+\contentsline {subsection}{\numberline {14.1.3}受迫振动和共振}{174}{subsection.14.1.3}%
+\contentsline {section}{\numberline {14.2}机械波}{176}{section.14.2}%
+\contentsline {subsection}{\numberline {14.2.1}对波动图象的理解与应用}{177}{subsection.14.2.1}%
+\contentsline {subsection}{\numberline {14.2.2}振动图象和波动图象的综合应用}{178}{subsection.14.2.2}%
+\contentsline {subsection}{\numberline {14.2.3}波的多解问题}{179}{subsection.14.2.3}%
+\contentsline {subsection}{\numberline {14.2.4}波的干涉和衍射　多普勒效应}{180}{subsection.14.2.4}%
+\contentsline {section}{\numberline {14.3}光的折射　全反射}{181}{section.14.3}%
+\contentsline {subsection}{\numberline {14.3.1}对折射率的理解}{182}{subsection.14.3.1}%
+\contentsline {subsection}{\numberline {14.3.2}光的折射与全反射的综合应用}{183}{subsection.14.3.2}%
+\contentsline {subsection}{\numberline {14.3.3}光的色散}{183}{subsection.14.3.3}%
+\contentsline {section}{\numberline {14.4}光的波动性　电磁波和相对论}{184}{section.14.4}%
+\contentsline {subsection}{\numberline {14.4.1}光的干涉、衍射和偏振}{186}{subsection.14.4.1}%
+\contentsline {subsection}{\numberline {14.4.2}薄膜干涉现象的理解}{187}{subsection.14.4.2}%
+\contentsline {subsection}{\numberline {14.4.3}电磁场和电磁波}{188}{subsection.14.4.3}%
+\contentsline {subsection}{\numberline {14.4.4}狭义相对论}{189}{subsection.14.4.4}%
+\contentsline {chapter}{\numberline {A}希腊字母常用指代意义及其中文读音}{190}{appendix.A}%
+\contentsline {chapter}{\numberline {B}高中物理公式}{191}{appendix.B}%
