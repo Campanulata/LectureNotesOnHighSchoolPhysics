@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  29 JUN 2020 15:44
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  29 JUN 2020 19:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/tylor/微云同步助手(951892043)/LaTeX/LectureNotesOnHighSchoolPhysics/高中物理学讲义
-(/Users/tylor/微云同步助手(951892043)/LaTeX/LectureNotesOnHighSchoolPhysics/高中物理学讲义.tex
+**/Users/tylor/LectureNotesOnHighSchoolPhysics/高中物理学讲义
+(/Users/tylor/LectureNotesOnHighSchoolPhysics/高中物理学讲义.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (./elegantbook.cls
 Document Class: elegantbook 2020/04/12 v3.11 ElegantBook document class
@@ -2622,62 +2622,27 @@ File: media/image13.png Graphic file (type bmp)
 
  (./chapter12.tex
 第\nobreakspace {}十二\nobreakspace {}章 12.
-Missing character: There is no ε in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
 [150
 
 
 
 ]
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
 File: media/image468.png Graphic file (type bmp)
 <media/image468.png>
  [151]
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
-\TU/FZNewShuSong-Z10(0)/m/n/10 与 入 射 光 频 率
- []
-
 File: media/image469.png Graphic file (type bmp)
 <media/image469.png>
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-
-Underfull \hbox (badness 1107) in paragraph at lines 114--115
-\TU/FZNewShuSong-Z10(0)/m/n/10 入 射 光 频 率 的
- []
-
 File: media/image470.png Graphic file (type bmp)
 <media/image470.png>
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
 File: media/image471.png Graphic file (type bmp)
 <media/image471.png>
 File: media/image472.png Graphic file (type bmp)
 <media/image472.png>
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-File: media/image473.png Graphic file (type bmp)
-<media/image473.png>
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-[152]
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
+ [152]
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
 File: media/image474.png Graphic file (type bmp)
@@ -2685,20 +2650,14 @@ File: media/image474.png Graphic file (type bmp)
  [153]
 File: media/image477.png Graphic file (type bmp)
 <media/image477.png>
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
 File: media/image478.png Graphic file (type bmp)
 <media/image478.png>
  [154]
-Missing character: There is no γ in font ntx-Regular-tlf-t1!
-Missing character: There is no γ in font ntx-Regular-tlf-t1!
 Missing character: There is no τ in font ntx-Regular-tlf-t1!
 Missing character: There is no τ in font ntx-Regular-tlf-t1!
  [155]
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
 File: media/image478.png Graphic file (type bmp)
 <media/image478.png>
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
-Missing character: There is no ν in font cmmi10!
 Missing character: There is no ≥ in font ntx-Regular-tlf-t1!
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
@@ -2707,7 +2666,7 @@ Missing character: There is no ― in font ntx-Regular-tlf-t1!
 Missing character: There is no ― in font ntx-Regular-tlf-t1!
 Missing character: There is no ― in font ntx-Regular-tlf-t1!
 
-Overfull \hbox (68.57187pt too wide) in paragraph at lines 386--390
+Overfull \hbox (68.57187pt too wide) in paragraph at lines 377--381
 []|[]| 
  []
 
@@ -2717,12 +2676,12 @@ File: media/image481.png Graphic file (type bmp)
 <media/image481.png>
 Missing character: There is no ― in font ntx-Regular-tlf-t1!
 
-Overfull \hbox (61.59616pt too wide) in paragraph at lines 427--428
+Overfull \hbox (61.59616pt too wide) in paragraph at lines 418--419
 []\TU/FZNewShuSong-Z10(0)/m/n/10 解 析 　 根 据 题 意 知 核 反 应 方 程 \T1/ntxtlf/m/n/10 U$\OMS/cmsy/m/n/10 !$\T1/ntxtlf/m/n/10 Pb+mHe+ne\TU/FZNewShuSong-Z10(0)/m/n/10 ，|  根 据 电 荷 数 守 恒 和 质 量 数 守 恒 可 得 \T1/ntxtlf/m/n/10 235=207+4m,92=82+2m-
  []
 
 [157]
-Overfull \hbox (28.45276pt too wide) in paragraph at lines 448--449
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 439--440
 []|[]| 
  []
 
@@ -3215,12 +3174,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 39459 strings out of 479418
- 832150 string characters out of 5884586
+ 39453 strings out of 479418
+ 831964 string characters out of 5884586
  1441336 words of memory out of 5000000
- 55830 multiletter control sequences out of 15000+600000
+ 55825 multiletter control sequences out of 15000+600000
  564288 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 68i,12n,126p,959b,894s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,17n,126p,935b,894s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on 高中物理学讲义.pdf (194 pages).
