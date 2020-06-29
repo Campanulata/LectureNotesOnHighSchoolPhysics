@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  28 JUN 2020 15:47
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  29 JUN 2020 15:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1328,22 +1328,12 @@ File: media/image13.png Graphic file (type bmp)
  (./chapter02.tex
 第\nobreakspace {}二\nobreakspace {}章 2.
 
-Overfull \hbox (32.53763pt too wide) in alignment at lines 34--42
+Overfull \hbox (32.53763pt too wide) in alignment at lines 34--40
  [] [] [] 
  []
 
 
-Overfull \hbox (68.57187pt too wide) in paragraph at lines 45--47
-[]|[]| 
- []
-
-
-Overfull \hbox (68.57187pt too wide) in paragraph at lines 60--62
-[]|[]| 
- []
-
-
-Overfull \hbox (32.53763pt too wide) in alignment at lines 42--74
+Overfull \hbox (32.53763pt too wide) in alignment at lines 40--69
  [] [] [] 
  []
 
@@ -1352,82 +1342,23 @@ Overfull \hbox (32.53763pt too wide) in alignment at lines 42--74
 
 
 ]
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 83--83
-[]|\TU/FZNewShuSong-Z10(0)/m/n/10 方
- []
-
-
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 83--83
-\TU/FZNewShuSong-Z10(0)/m/n/10 法| 
- []
-
-
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 85--87
-[]|\TU/FZNewShuSong-Z10(0)/m/n/10 假
- []
-
-
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 85--87
-\TU/FZNewShuSong-Z10(0)/m/n/10 设
- []
-
-
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 85--87
-\TU/FZNewShuSong-Z10(0)/m/n/10 法| 
- []
-
 File: media/image40.png Graphic file (type bmp)
 <media/image40.png>
-
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 91--93
-[]|\TU/FZNewShuSong-Z10(0)/m/n/10 替
- []
-
-
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 91--93
-\TU/FZNewShuSong-Z10(0)/m/n/10 换
- []
-
-
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 91--93
-\TU/FZNewShuSong-Z10(0)/m/n/10 法| 
- []
-
 File: media/image41.png Graphic file (type bmp)
 <media/image41.png>
-
-Overfull \hbox (2.56657pt too wide) in paragraph at lines 94--94
- [] 
- []
-
-
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 97--99
-[]|\TU/FZNewShuSong-Z10(0)/m/n/10 状
- []
-
-
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 97--99
-\TU/FZNewShuSong-Z10(0)/m/n/10 态
- []
-
-
-Overfull \hbox (4.30954pt too wide) in paragraph at lines 97--99
-\TU/FZNewShuSong-Z10(0)/m/n/10 法| 
- []
-
 File: media/image42.png Graphic file (type bmp)
 <media/image42.png>
 
-Underfull \vbox (badness 10000) detected at line 103
+Underfull \vbox (badness 10000) detected at line 104
  []
 
 File: media/image43.png Graphic file (type bmp)
 <media/image43.png>
 File: media/image44.png Graphic file (type bmp)
 <media/image44.png>
-[13]
 File: media/image45.png Graphic file (type bmp)
 <media/image45.png>
+[13]
 File: media/image46.png Graphic file (type bmp)
 <media/image46.png>
 File: media/image47.png Graphic file (type bmp)
@@ -1492,7 +1423,7 @@ File: media/image74.png Graphic file (type bmp)
 <media/image74.png>
  [22]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.0pt on input line 539.
+(Font)              scaled to size 5.0pt on input line 533.
  [23]
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
@@ -3284,10 +3215,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 39470 strings out of 479418
- 832929 string characters out of 5884586
+ 39459 strings out of 479418
+ 832150 string characters out of 5884586
  1441336 words of memory out of 5000000
- 55841 multiletter control sequences out of 15000+600000
+ 55830 multiletter control sequences out of 15000+600000
  564288 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  68i,12n,126p,959b,894s stack positions out of 5000i,500n,10000p,200000b,80000s
