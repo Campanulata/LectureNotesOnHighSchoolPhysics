@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  29 JUN 2020 19:29
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  2 JUL 2020 19:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2652,21 +2652,13 @@ File: media/image477.png Graphic file (type bmp)
 <media/image477.png>
 File: media/image478.png Graphic file (type bmp)
 <media/image478.png>
- [154]
-Missing character: There is no τ in font ntx-Regular-tlf-t1!
-Missing character: There is no τ in font ntx-Regular-tlf-t1!
- [155]
+ [154] [155]
 File: media/image478.png Graphic file (type bmp)
 <media/image478.png>
-Missing character: There is no ≥ in font ntx-Regular-tlf-t1!
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
  [156]
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-
-Overfull \hbox (68.57187pt too wide) in paragraph at lines 377--381
+Overfull \hbox (68.57187pt too wide) in paragraph at lines 376--380
 []|[]| 
  []
 
@@ -2674,149 +2666,76 @@ File: media/image480.png Graphic file (type bmp)
 <media/image480.png>
 File: media/image481.png Graphic file (type bmp)
 <media/image481.png>
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-
-Overfull \hbox (61.59616pt too wide) in paragraph at lines 418--419
-[]\TU/FZNewShuSong-Z10(0)/m/n/10 解 析 　 根 据 题 意 知 核 反 应 方 程 \T1/ntxtlf/m/n/10 U$\OMS/cmsy/m/n/10 !$\T1/ntxtlf/m/n/10 Pb+mHe+ne\TU/FZNewShuSong-Z10(0)/m/n/10 ，|  根 据 电 荷 数 守 恒 和 质 量 数 守 恒 可 得 \T1/ntxtlf/m/n/10 235=207+4m,92=82+2m-
- []
-
 [157]
-Overfull \hbox (28.45276pt too wide) in paragraph at lines 439--440
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 421--422
 []|[]| 
  []
 
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
-Missing character: There is no ― in font ntx-Regular-tlf-t1!
 [158]) [159]
 \openout2 = `chapter13.aux'.
 
  (./chapter13.tex
 第\nobreakspace {}十三\nobreakspace {}章 13.
-Missing character: There is no Ⅰ in font ntx-Regular-tlf-t1!
-Missing character: There is no Ⅰ in font ntx-Regular-tlf-t1!
-Missing character: There is no Ⅰ in font ntx-Regular-tlf-t1!
 File: media/image485.png Graphic file (type bmp)
 <media/image485.png>
 [160
 
 
 
-]
-File: media/image6.png Graphic file (type bmp)
-<media/image6.png>
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ρ in font ntx-Regular-tlf-t1!
- [161]
-Missing character: There is no π in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-File: media/image11.png Graphic file (type bmp)
-<media/image11.png>
-Missing character: There is no ρ in font ntx-Regular-tlf-t1!
+] [161]
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-Missing character: There is no ρ in font ntx-Regular-tlf-t1!
-
-Overfull \hbox (115.74637pt too wide) in alignment at lines 212--216
- [] [] [] 
- []
-
-
-Overfull \hbox (115.74637pt too wide) in alignment at lines 216--224
- [] [] [] 
- []
-
-[162] [163]
-File: media/image486.png Graphic file (type bmp)
-<media/image486.png>
-Missing character: There is no π in font ntx-Regular-tlf-t1!
-Missing character: There is no ρ in font ntx-Regular-tlf-t1!
-Missing character: There is no ρ in font ntx-Regular-tlf-t1!
-Missing character: There is no ρ in font ntx-Regular-tlf-t1!
-Missing character: There is no ρ in font ntx-Regular-tlf-t1!
+ [162]
 File: media/image487.png Graphic file (type bmp)
 <media/image487.png>
- [164]
-File: media/image488.png Graphic file (type bmp)
-<media/image488.png>
-File: media/image489.png Graphic file (type bmp)
-<media/image489.png>
 
-Overfull \hbox (489.66045pt too wide) in alignment at lines 282--286
- [] [] [] [] 
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 160.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 162.
+
+[163]
+Underfull \hbox (badness 1406) in paragraph at lines 183--184
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 玻 璃、|  蜂 蜡、|
  []
 
-
-Overfull \hbox (489.66045pt too wide) in alignment at lines 286--298
- [] [] [] [] 
- []
-
-Missing character: There is no 固 in font ntx-Regular-tlf-t1!
-Missing character: There is no 体 in font ntx-Regular-tlf-t1!
-Missing character: There is no 、 in font ntx-Regular-tlf-t1!
-Missing character: There is no 液 in font ntx-Regular-tlf-t1!
-Missing character: There is no 体 in font ntx-Regular-tlf-t1!
-Missing character: There is no 和 in font ntx-Regular-tlf-t1!
-Missing character: There is no 气 in font ntx-Regular-tlf-t1!
-Missing character: There is no 体 in font ntx-Regular-tlf-t1!
-[165] [166]
-File: media/image494.png Graphic file (type bmp)
-<media/image494.png>
+[164] [165]
 File: media/image495.png Graphic file (type bmp)
 <media/image495.png>
 File: media/image496.png Graphic file (type bmp)
 <media/image496.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--357
+[]|[]
+ []
+
 File: media/image497.png Graphic file (type bmp)
 <media/image497.png>
 File: media/image498.png Graphic file (type bmp)
 <media/image498.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--360
+[]|[]
+ []
+
 File: media/image499.png Graphic file (type bmp)
 <media/image499.png>
 File: media/image500.png Graphic file (type bmp)
 <media/image500.png>
- [167]
-File: media/image501.png Graphic file (type bmp)
-<media/image501.png>
- [168]
-Overfull \hbox (729.7627pt too wide) in alignment at lines 569--583
- [] [] [] [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--364
+[]|[]
  []
 
-
-Overfull \hbox (729.7627pt too wide) in alignment at lines 583--603
- [] [] [] [] 
- []
-
-Missing character: There is no ， in font cmr10!
-Missing character: There is no ， in font cmr10!
+[166] [167]
 Missing character: There is no 则 in font cmr10!
 File: media/image34.png Graphic file (type bmp)
 <media/image34.png>
-[169]
-File: media/image506.png Graphic file (type bmp)
-<media/image506.png>
-
-Overfull \hbox (63.74635pt too wide) in alignment at lines 651--655
- [] [] 
- []
-
-
-Overfull \hbox (63.74635pt too wide) in alignment at lines 655--661
- [] [] 
- []
-
-File: media/image507.png Graphic file (type bmp)
-<media/image507.png>
-[170]
+ [168]
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-) [171]
+) [169]
 \openout2 = `chapter14.aux'.
 
  (./chapter14.tex
@@ -2828,72 +2747,45 @@ File: media/image512.png Graphic file (type bmp)
 <media/image512.png>
 File: media/image513.png Graphic file (type bmp)
 <media/image513.png>
-[172
+[170
 
 
 
-]
+] [171]
 File: media/image515.png Graphic file (type bmp)
 <media/image515.png>
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
- [173]
+ [172]
 File: media/image516.png Graphic file (type bmp)
 <media/image516.png>
 File: media/image517.png Graphic file (type bmp)
 <media/image517.png>
-File: media/image518.png Graphic file (type bmp)
-<media/image518.png>
-
-Overfull \hbox (46.8254pt too wide) in alignment at lines 154--168
- [] [] [] [] 
+ [173]
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 弹 簧 振 子 或 单 摆
  []
 
-
-Overfull \hbox (46.8254pt too wide) in alignment at lines 168--186
- [] [] [] [] 
- []
-
-[174]
 File: media/image519.png Graphic file (type bmp)
 <media/image519.png>
 File: media/image520.png Graphic file (type bmp)
 <media/image520.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-Missing character: There is no 机 in font ntx-Regular-tlf-t1!
-Missing character: There is no 械 in font ntx-Regular-tlf-t1!
-Missing character: There is no 波 in font ntx-Regular-tlf-t1!
- [175]
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
+[174]
 File: media/image526.png Graphic file (type bmp)
 <media/image526.png>
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
 
-Overfull \hbox (163.24637pt too wide) in alignment at lines 277--281
- [] [] [] 
- []
-
-
-Overfull \hbox (163.24637pt too wide) in alignment at lines 281--287
- [] [] [] 
+Underfull \hbox (badness 1609) in paragraph at lines 256--256
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 两 列 波 的 频 率 必 须 相 同，|
  []
 
 Missing character: There is no 机 in font ntx-Regular-tlf-t1!
 Missing character: There is no 械 in font ntx-Regular-tlf-t1!
 Missing character: There is no 波 in font ntx-Regular-tlf-t1!
-[176]
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
+[175]
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
-
-Overfull \hbox (157.48671pt too wide) in alignment at lines 309--313
- [] [] [] 
- []
-
 File: media/image528.png Graphic file (type bmp)
 <media/image528.png>
 File: media/image529.png Graphic file (type bmp)
@@ -2901,141 +2793,76 @@ File: media/image529.png Graphic file (type bmp)
 File: media/image530.png Graphic file (type bmp)
 <media/image530.png>
 
-Overfull \hbox (157.48671pt too wide) in alignment at lines 313--324
- [] [] [] 
+Overfull \hbox (0.56207pt too wide) in paragraph at lines 298--299
+[]|[]| 
  []
 
-File: media/image531.png Graphic file (type bmp)
-<media/image531.png>
-
-Overfull \hbox (91.22374pt too wide) in alignment at lines 349--353
- [] [] [] 
- []
-
+[176]
 File: media/image532.png Graphic file (type bmp)
 <media/image532.png>
 File: media/image533.png Graphic file (type bmp)
 <media/image533.png>
 
-Overfull \hbox (91.22374pt too wide) in alignment at lines 353--387
- [] [] [] 
+Overfull \hbox (68.57187pt too wide) in paragraph at lines 320--322
+[]|[]| 
  []
 
+
+Underfull \hbox (badness 5008) in paragraph at lines 343--343
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 一 完 整 曲 线
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 343--343
+\TU/FZNewShuSong-Z10(0)/m/n/10 占 横 坐 标 距
+ []
+
+File: media/image37.png Graphic file (type bmp)
+<media/image37.png>
 [177]
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
-File: media/image534.png Graphic file (type bmp)
-<media/image534.png>
-File: media/image535.png Graphic file (type bmp)
-<media/image535.png>
  [178]
-Missing character: There is no π in font ntx-Regular-tlf-t1!
-File: media/image536.png Graphic file (type bmp)
-<media/image536.png>
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-File: media/image37.png Graphic file (type bmp)
-<media/image37.png>
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-File: media/image537.png Graphic file (type bmp)
-<media/image537.png>
- [179]
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-File: media/image538.png Graphic file (type bmp)
-<media/image538.png>
-File: media/image539.png Graphic file (type bmp)
-<media/image539.png>
-File: media/image540.png Graphic file (type bmp)
-<media/image540.png>
- [180]
 File: media/image545.png Graphic file (type bmp)
 <media/image545.png>
- [181]
 File: media/image546.png Graphic file (type bmp)
 <media/image546.png>
-File: media/image547.png Graphic file (type bmp)
-<media/image547.png>
-File: media/image548.png Graphic file (type bmp)
-<media/image548.png>
+ [179]
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
- [182]
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-Missing character: There is no Ⅰ in font ntx-Regular-tlf-t1!
-File: media/image549.png Graphic file (type bmp)
-<media/image549.png>
+ [180]
 File: media/image550.png Graphic file (type bmp)
 <media/image550.png>
-Missing character: There is no ν in font ntx-Regular-tlf-t1!
- [183]
-File: media/image551.png Graphic file (type bmp)
-<media/image551.png>
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
+ [181]
 File: media/image557.png Graphic file (type bmp)
 <media/image557.png>
- [184]
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
+ [182]
 Missing character: There is no γ in font ntx-Regular-tlf-t1!
-Missing character: There is no γ in font ntx-Regular-tlf-t1!
- [185]
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
+ [183]
 File: media/image558.png Graphic file (type bmp)
 <media/image558.png>
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-
-Overfull \hbox (209.7627pt too wide) in alignment at lines 847--861
- [] [] [] [] 
+ [184]
+File: media/image560.png Graphic file (type bmp)
+<media/image560.png>
+File: media/image561.png Graphic file (type bmp)
+<media/image561.png>
+ [185]
+Underfull \hbox (badness 5008) in paragraph at lines 812--812
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 周 期 性 变 化
  []
 
 
-Overfull \hbox (209.7627pt too wide) in alignment at lines 861--881
- [] [] [] [] 
+Underfull \hbox (badness 5008) in paragraph at lines 818--818
+[]|\TU/FZNewShuSong-Z10(0)/m/n/10 纵 波 还 是 横
  []
 
 [186]
-Overfull \hbox (285.74637pt too wide) in alignment at lines 891--895
- [] [] [] 
- []
-
-
-Overfull \hbox (285.74637pt too wide) in alignment at lines 895--901
- [] [] [] 
- []
-
-File: media/image559.png Graphic file (type bmp)
-<media/image559.png>
-File: media/image560.png Graphic file (type bmp)
-<media/image560.png>
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-[187]
-File: media/image561.png Graphic file (type bmp)
-<media/image561.png>
-File: media/image562.png Graphic file (type bmp)
-<media/image562.png>
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-
-Overfull \hbox (579.15637pt too wide) in alignment at lines 964--968
- [] [] [] 
- []
-
-Missing character: There is no λ in font ntx-Regular-tlf-t1!
-
-Overfull \hbox (579.15637pt too wide) in alignment at lines 968--981
- [] [] [] 
- []
-
-
-Overfull \vbox (21.84482pt too high) has occurred while \output is active []
-
- [188]
 Missing character: There is no τ in font ntx-Regular-tlf-t1!
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
-) [189]
+) [187]
 附录\nobreakspace {}A A.
 
 Overfull \hbox (43.54936pt too wide) in alignment at lines 47--54
@@ -3119,7 +2946,7 @@ Overfull \hbox (43.54936pt too wide) in alignment at lines 93--107
  [] [] [] [] [] [] [] 
  []
 
-[190
+[188
 
 
 ]
@@ -3158,7 +2985,7 @@ Overfull \hbox (1.6321pt too wide) in alignment at lines 115--244
 Underfull \vbox (badness 10000) detected at line 244
  []
 
-[191
+[189
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
@@ -3174,12 +3001,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 39453 strings out of 479418
- 831964 string characters out of 5884586
+ 39279 strings out of 479418
+ 827154 string characters out of 5884586
  1441336 words of memory out of 5000000
- 55825 multiletter control sequences out of 15000+600000
+ 55675 multiletter control sequences out of 15000+600000
  564288 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  68i,17n,126p,935b,894s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 高中物理学讲义.pdf (194 pages).
+Output written on 高中物理学讲义.pdf (192 pages).
