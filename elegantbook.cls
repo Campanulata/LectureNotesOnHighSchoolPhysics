@@ -811,7 +811,7 @@
             anchor=south east,
             outer sep=0pt,
             inner sep=0pt] at ($(current page.south east) +(-0.8in,1.5in)$) {
-              \ifcsname @logo\endcsname\includegraphics[width=4.2cm]{\@logo}\fi};
+              \ifcsname @logo\endcsname\includegraphics[width=12cm]{\@logo}\fi};
     \end{pgfonlayer}
   \end{tikzpicture}
   \end{minipage}
