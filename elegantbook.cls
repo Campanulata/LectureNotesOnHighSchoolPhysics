@@ -328,7 +328,7 @@
 
 \RequirePackage{graphicx}
 %\RequirePackage{enumerate}
-\RequirePackage{amsmath,mathrsfs,amsfonts,amssymb}
+\RequirePackage{amsmath,mathrsfs,amsfonts,amssymb,yhmath}
 % \providecommand\qed{}
 % \renewcommand{\qed}{\hfill\ensuremath{\square}}
 \RequirePackage{booktabs}

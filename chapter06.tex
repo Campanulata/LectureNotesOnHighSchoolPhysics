@@ -445,9 +445,63 @@ D．$\dfrac{v_{2}-v_{0}}{v_{2}-v_{1}} M$
 
 	由于相对速度证明和能量守恒证明可以替换，能量守恒方程（黄色）也可证明BC段的有效性。
 	\newpage
-	\item 动量中的$\pi$
+	\item 动量与$\pi$
 	
-	美国东伊利诺大学Gregory Galperin教授在1995年东伊利诺斯大学数学讨论会上首次报告了两球与墙壁三者间的总碰撞次数与圆周率之间的关系，当他在报告中公布这个结论时，听众们开始都觉得难以置信，但在给出证明后，听众们又纷纷表示信服。2003年，Gregory Galperin教授在论文《Playing pool with π — The number π from a billiard point of view》中公布了证明过程，他的主要证明思路是将碰撞次数问题转化为类似于光学中平面镜反射次数问题。
+	美国东伊利诺大学Gregory Galperin教授在1995年东伊利诺斯大学数学讨论会上首次报告了两球与墙壁三者间的总碰撞次数与圆周率之间的关系，当他在报告中公布这个结论时，听众们开始都觉得难以置信，但在给出证明后，听众们又纷纷表示信服。2003年，Gregory Galperin教授在论文\href{https://github.com/Campanulata/LectureNotesOnHighSchoolPhysics/blob/master/data/PLAYING%20POOL%20WITH%20%CF%80.pdf}{《Playing pool with $\pi$ — The number $\pi$ from a billiard point of view》}中公布了证明过程，他的主要证明思路是将碰撞次数问题转化为类似于光学中平面镜反射次数问题。
+	知名up主Grant Sanderson（3B1B）也在视频网站上分享了利用光学的证明：\href{https://www.bilibili.com/video/BV1Mb41187jL}{https://www.bilibili.com/video/BV1Mb41187jL}
 
-	
+	下面给出几何证明
+	\begin{center}
+		\includegraphics[width=13cm]{media/62.png}
+	\end{center}
+	图片来源：\href{https://www.geogebra.org/classic/xmq7m6dt}{https://www.geogebra.org/classic/xmq7m6dt}
+	假设可视为质点的物体A质量为$m_1$，以初速度为$v_0$撞击质量为$m_2$的物体B。B的前方有一堵墙。物体与物体，物体与墙面的碰撞均为完全弹性碰撞。若以$v_1,v_2$分别表示A，B任意时刻的速度，规定初速度方向为正方向，则：
+	\begin{equation}
+		m_1v_1+m_2v_2=m_1v_0
+	\end{equation}
+	\begin{equation}
+		\frac{1}{2}m_1v_1^2+\frac{1}{2}m_2v_2^2=\frac{1}{2}m_1v_0^2
+	\end{equation}
+	令$x=\sqrt{m_1}v_1$，$y=\sqrt{m_2}v_2$则：
+	\begin{equation}
+		\sqrt{m_1}x+\sqrt{m_2}y=m_1v_0
+	\end{equation}
+	\begin{equation}
+		\frac{1}{2}x^2+\frac{1}{2}y^2=\frac{1}{2}m_1v_0^2
+	\end{equation}
+	如图作出方程(6.11)(6.12)，图中已将(6.11)隐藏，应该是与线段[初速度，第1次碰撞]共线的直线。与圆交于两点，分别是碰撞前的初速度和第1次碰撞后的速度。随后B与墙面发生碰撞，速度反向，作关于x轴对称点，得到B与墙面碰撞后的速度。由于动量守恒，过点（第2次碰撞）作动量守恒的平行线得到第3次碰撞。同理，可得到第n次碰撞的点。
+	\newpage
+	接下来我们将在图中表示碰撞中止：
+	模型中碰撞中止的条件是:$v_1,v_2$均与初速度$v_0$反向\ding{172}，且$\vert v_1\vert >\vert v_2\vert$\ding{173},则：
+	\begin{align*}
+		v_1&<v_2\\
+		\dfrac{x}{\sqrt{m_1}}&<\dfrac{y}{\sqrt{m_2}}\\
+		y&>\sqrt{\frac{m_2}{m_1}}x
+	\end{align*}
+	在图中作出$y=\sqrt{\frac{m_2}{m_1}}x$的图像，由于斜率与动量守恒斜率互成负倒数，所以互相垂直。
+
+	满足条件\ding{172}的区域为第三象限，满足条件\ding{173}的区域为$y>\sqrt{\frac{m_2}{m_1}}x$的左边。所以碰撞后的速度在$\wideparen{AB}$上，碰撞中止。
+
+	图示为第8次碰撞后中止。以初速度与第2次碰撞间的弧为例，设圆周角为$\beta$，则其圆心角为$2\beta$，观察可知每发生一次碰撞，圆周就会被分割出一个圆心角为$2\beta$的弧。设该过程发生的碰撞次数为n，则：
+	\begin{equation}
+		n\times 2\beta<2\pi
+	\end{equation}
+	当$\frac{m_1}{m_2}=100^k(k=1,2,3\cdots)$时，
+	\begin{align*}
+		\frac{m_1}{m_2}&\ge 100\\
+		\frac{m_2}{m_1}&\le \frac{1}{100}\\
+		\sqrt{\frac{m_2}{m_1}}&\le 0.1\\
+		\tan\beta&\le 0.1
+	\end{align*}
+	由于$\tan\beta\rightarrow 0$
+	\begin{equation}
+		\tan\beta\approx\beta
+	\end{equation}
+	联立公式(6.13)(6.14)
+	\begin{align*}
+		n\times 2\tan\beta&<2\pi\\
+		n\times \sqrt{\frac{m_2}{m_1}}&<\pi\\
+		n&<\sqrt{\frac{m_1}{m_2}}\pi
+	\end{align*}
+	由于n为正整数，所以当k取1，2，3$\cdots$时，n为31，314，3141$\cdots$
 \end{problemset}
