@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  5 JUL 2020 14:06
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  18 JUL 2020 13:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2027,12 +2027,15 @@ File: media/image253.png Graphic file (type bmp)
 <media/image253.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
- [88]) [89]
+ [88] [89]
+File: media/61.png Graphic file (type bmp)
+<media/61.png>
+ [90]) [91]
 \openout2 = `chapter07.aux'.
 
  (./chapter07.tex
 第\nobreakspace {}七\nobreakspace {}章 7.
-[90
+[92
 
 
 
@@ -2041,7 +2044,7 @@ File: media/image260.png Graphic file (type bmp)
 <media/image260.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
- [91]
+ [93]
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
 File: media/image261.png Graphic file (type bmp)
@@ -2050,12 +2053,12 @@ File: media/image25.png Graphic file (type bmp)
 <media/image25.png>
 File: media/image262.png Graphic file (type bmp)
 <media/image262.png>
- [92]
+ [94]
 File: media/image263.png Graphic file (type bmp)
 <media/image263.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
- [93]
+ [95]
 File: media/image264.png Graphic file (type bmp)
 <media/image264.png>
 File: media/image265.png Graphic file (type bmp)
@@ -2066,10 +2069,10 @@ File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
- [94]
+ [96]
 File: media/image267.png Graphic file (type bmp)
 <media/image267.png>
- [95] [96]
+ [97] [98]
 Overfull \hbox (6.31126pt too wide) in alignment at lines 325--329
  [] [] 
  []
@@ -2093,7 +2096,7 @@ File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-[97]
+[99]
 File: media/image276.png Graphic file (type bmp)
 <media/image276.png>
 File: media/image277.png Graphic file (type bmp)
@@ -2106,7 +2109,7 @@ File: media/image25.png Graphic file (type bmp)
 <media/image25.png>
 File: media/image280.png Graphic file (type bmp)
 <media/image280.png>
- [98]
+ [100]
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
 File: media/image282.png Graphic file (type bmp)
@@ -2115,50 +2118,50 @@ File: media/image283.png Graphic file (type bmp)
 <media/image283.png>
 File: media/image284.png Graphic file (type bmp)
 <media/image284.png>
- [99]
+ [101]
 File: media/image285.png Graphic file (type bmp)
 <media/image285.png>
- [100]
+ [102]
 File: media/image286.png Graphic file (type bmp)
 <media/image286.png>
- [101]
+ [103]
 Missing character: There is no ⑤ in font ntx-Regular-tlf-t1!
 File: media/image292.png Graphic file (type bmp)
 <media/image292.png>
- [102]
+ [104]
 File: media/image295.png Graphic file (type bmp)
 <media/image295.png>
 File: media/image296.png Graphic file (type bmp)
 <media/image296.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
- [103]
+ [105]
 File: media/image297.png Graphic file (type bmp)
 <media/image297.png>
 File: media/image25.png Graphic file (type bmp)
 <media/image25.png>
 File: media/image298.png Graphic file (type bmp)
 <media/image298.png>
- [104]
+ [106]
 File: media/image299.png Graphic file (type bmp)
 <media/image299.png>
 File: media/image300.png Graphic file (type bmp)
 <media/image300.png>
- [105]
+ [107]
 File: media/image301.png Graphic file (type bmp)
 <media/image301.png>
 File: media/image302.png Graphic file (type bmp)
 <media/image302.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
- [106]) [107]
+ [108]) [109]
 \openout2 = `chapter08.aux'.
 
  (./chapter08.tex
 第\nobreakspace {}八\nobreakspace {}章 8.
 File: media/image307.png Graphic file (type bmp)
 <media/image307.png>
-[108
+[110
 
 
 
@@ -2206,7 +2209,7 @@ File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
-[109]
+[111]
 File: media/image311.png Graphic file (type bmp)
 <media/image311.png>
 File: media/image312.png Graphic file (type bmp)
@@ -2215,12 +2218,12 @@ File: media/image34.png Graphic file (type bmp)
 <media/image34.png>
 File: media/image313.png Graphic file (type bmp)
 <media/image313.png>
- [110]
+ [112]
 File: media/image314.png Graphic file (type bmp)
 <media/image314.png>
 File: media/image34.png Graphic file (type bmp)
 <media/image34.png>
- [111] [112]
+ [113] [114]
 File: media/image320.png Graphic file (type bmp)
 <media/image320.png>
 
@@ -2229,28 +2232,28 @@ Underfull \vbox (badness 10000) detected at line 317
 
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-[113]
+[115]
 File: media/image322.png Graphic file (type bmp)
 <media/image322.png>
 File: media/image25.png Graphic file (type bmp)
 <media/image25.png>
 File: media/image323.png Graphic file (type bmp)
 <media/image323.png>
- [114]
+ [116]
 File: media/image325.png Graphic file (type bmp)
 <media/image325.png>
 File: media/image326.png Graphic file (type bmp)
 <media/image326.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-) [115]
+) [117]
 \openout2 = `chapter09.aux'.
 
  (./chapter09.tex
 第\nobreakspace {}九\nobreakspace {}章 9.
 File: media/image335.png Graphic file (type bmp)
 <media/image335.png>
-[116
+[118
 
 
 
@@ -2277,7 +2280,7 @@ File: media/image337.png Graphic file (type bmp)
 <media/image337.png>
 File: media/image338.png Graphic file (type bmp)
 <media/image338.png>
-[117]
+[119]
 Overfull \hbox (11.66635pt too wide) in paragraph at lines 95--97
 []|[]| 
  []
@@ -2293,7 +2296,7 @@ File: media/image340.png Graphic file (type bmp)
 <media/image340.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-[118]
+[120]
 File: media/image341.png Graphic file (type bmp)
 <media/image341.png>
 Missing character: There is no Ⅰ in font ntx-Regular-tlf-t1!
@@ -2301,12 +2304,12 @@ File: media/image342.png Graphic file (type bmp)
 <media/image342.png>
 File: media/image343.png Graphic file (type bmp)
 <media/image343.png>
- [119]
+ [121]
 File: media/image25.png Graphic file (type bmp)
 <media/image25.png>
 File: media/image345.png Graphic file (type bmp)
 <media/image345.png>
- [120] [121]
+ [122] [123]
 Overfull \hbox (11.66635pt too wide) in paragraph at lines 269--271
 []|[]| 
  []
@@ -2318,7 +2321,7 @@ Overfull \hbox (11.66635pt too wide) in paragraph at lines 271--274
 
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-[122]
+[124]
 File: media/image353.png Graphic file (type bmp)
 <media/image353.png>
 File: media/image354.png Graphic file (type bmp)
@@ -2329,14 +2332,14 @@ File: media/image355.png Graphic file (type bmp)
 <media/image355.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
- [123]
+ [125]
 File: media/image358.png Graphic file (type bmp)
 <media/image358.png>
 File: media/image360.png Graphic file (type bmp)
 <media/image360.png>
 File: media/image362.png Graphic file (type bmp)
 <media/image362.png>
- [124]
+ [126]
 Overfull \hbox (97.02463pt too wide) in paragraph at lines 386--388
 []|[]| 
  []
@@ -2361,12 +2364,12 @@ Overfull \hbox (97.02463pt too wide) in paragraph at lines 412--414
 []|[]| 
  []
 
-[125]
+[127]
 File: media/image369.png Graphic file (type bmp)
 <media/image369.png>
 File: media/image370.png Graphic file (type bmp)
 <media/image370.png>
- [126]
+ [128]
 File: media/image371.png Graphic file (type bmp)
 <media/image371.png>
 File: media/image372.png Graphic file (type bmp)
@@ -2375,7 +2378,7 @@ File: media/image373.png Graphic file (type bmp)
 <media/image373.png>
 File: media/image374.png Graphic file (type bmp)
 <media/image374.png>
- [127]
+ [129]
 File: media/image25.png Graphic file (type bmp)
 <media/image25.png>
 File: media/image377.png Graphic file (type bmp)
@@ -2383,7 +2386,7 @@ File: media/image377.png Graphic file (type bmp)
 Missing character: There is no Ⅰ in font ntx-Regular-tlf-t1!
 File: media/image378.png Graphic file (type bmp)
 <media/image378.png>
- [128]
+ [130]
 Overfull \hbox (304.44266pt too wide) in paragraph at lines 552--554
 []|[]| 
  []
@@ -2413,26 +2416,26 @@ Overfull \hbox (120.35095pt too wide) in paragraph at lines 574--583
 []|[]| 
  []
 
-) [129]
+) [131]
 \openout2 = `chapter10.aux'.
 
  (./chapter10.tex
 第\nobreakspace {}十\nobreakspace {}章 10.
-[130
+[132
 
 
 
 ]
 File: media/image387.png Graphic file (type bmp)
 <media/image387.png>
- [131]
+ [133]
 File: media/image389.png Graphic file (type bmp)
 <media/image389.png>
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
 File: media/image390.png Graphic file (type bmp)
 <media/image390.png>
- [132]
+ [134]
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
 []|\TU/FZNewShuSong-Z10(0)/m/n/10 阻 碍 原 磁 通 量 变
  []
@@ -2458,11 +2461,11 @@ File: media/image396.png Graphic file (type bmp)
 <media/image396.png>
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
-[133] [134]
+[135] [136]
 Missing character: There is no ­ in font cmr7!
 File: media/image34.png Graphic file (type bmp)
 <media/image34.png>
- [135]
+ [137]
 File: media/image407.png Graphic file (type bmp)
 <media/image407.png>
 
@@ -2510,31 +2513,31 @@ Overfull \hbox (11.56854pt too wide) in alignment at lines 310--316
  [] [] [] 
  []
 
-[136]
+[138]
 File: media/image413.png Graphic file (type bmp)
 <media/image413.png>
 File: media/image414.png Graphic file (type bmp)
 <media/image414.png>
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
- [137] [138]
+ [139] [140]
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
- [139]
+ [141]
 File: media/image427.png Graphic file (type bmp)
 <media/image427.png>
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
 File: media/image428.png Graphic file (type bmp)
 <media/image428.png>
- [140]
+ [142]
 File: media/image430.png Graphic file (type bmp)
 <media/image430.png>
 File: media/image431.png Graphic file (type bmp)
 <media/image431.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-) [141]
+) [143]
 \openout2 = `chapter11.aux'.
 
  (./chapter11.tex
@@ -2543,7 +2546,7 @@ File: media/image436.png Graphic file (type bmp)
 <media/image436.png>
 File: media/image437.png Graphic file (type bmp)
 <media/image437.png>
-[142
+[144
 
 
 
@@ -2585,25 +2588,25 @@ Overfull \hbox (57.8731pt too wide) in paragraph at lines 134--136
 []|[]| 
  []
 
-[143]
+[145]
 File: media/image25.png Graphic file (type bmp)
 <media/image25.png>
- [144]
+ [146]
 File: media/image450.png Graphic file (type bmp)
 <media/image450.png>
- [145]
+ [147]
 File: media/image34.png Graphic file (type bmp)
 <media/image34.png>
 File: media/image451.png Graphic file (type bmp)
 <media/image451.png>
- [146]
+ [148]
 File: media/image452.png Graphic file (type bmp)
 <media/image452.png>
 File: media/image453.png Graphic file (type bmp)
 <media/image453.png>
 File: media/image25.png Graphic file (type bmp)
 <media/image25.png>
- [147]
+ [149]
 File: media/image455.png Graphic file (type bmp)
 <media/image455.png>
 File: media/image458.png Graphic file (type bmp)
@@ -2612,17 +2615,17 @@ File: media/image459.png Graphic file (type bmp)
 <media/image459.png>
 File: media/image461.png Graphic file (type bmp)
 <media/image461.png>
- [148]
+ [150]
 File: media/image463.png Graphic file (type bmp)
 <media/image463.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-) [149]
+) [151]
 \openout2 = `chapter12.aux'.
 
  (./chapter12.tex
 第\nobreakspace {}十二\nobreakspace {}章 12.
-[150
+[152
 
 
 
@@ -2631,7 +2634,7 @@ File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
 File: media/image468.png Graphic file (type bmp)
 <media/image468.png>
- [151]
+ [153]
 File: media/image469.png Graphic file (type bmp)
 <media/image469.png>
 File: media/image470.png Graphic file (type bmp)
@@ -2642,22 +2645,22 @@ File: media/image472.png Graphic file (type bmp)
 <media/image472.png>
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
- [152]
+ [154]
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
 File: media/image474.png Graphic file (type bmp)
 <media/image474.png>
- [153]
+ [155]
 File: media/image477.png Graphic file (type bmp)
 <media/image477.png>
 File: media/image478.png Graphic file (type bmp)
 <media/image478.png>
- [154] [155]
+ [156] [157]
 File: media/image478.png Graphic file (type bmp)
 <media/image478.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
- [156]
+ [158]
 Overfull \hbox (68.57187pt too wide) in paragraph at lines 376--380
 []|[]| 
  []
@@ -2666,26 +2669,26 @@ File: media/image480.png Graphic file (type bmp)
 <media/image480.png>
 File: media/image481.png Graphic file (type bmp)
 <media/image481.png>
-[157]
+[159]
 Overfull \hbox (28.45276pt too wide) in paragraph at lines 421--422
 []|[]| 
  []
 
-[158]) [159]
+[160]) [161]
 \openout2 = `chapter13.aux'.
 
  (./chapter13.tex
 第\nobreakspace {}十三\nobreakspace {}章 13.
 File: media/image485.png Graphic file (type bmp)
 <media/image485.png>
-[160
+[162
 
 
 
-] [161]
+] [163]
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
- [162]
+ [164]
 File: media/image487.png Graphic file (type bmp)
 <media/image487.png>
 
@@ -2695,12 +2698,12 @@ LaTeX Warning: Command \textgreater invalid in math mode on input line 160.
 
 LaTeX Warning: Command \textless invalid in math mode on input line 162.
 
-[163]
+[165]
 Underfull \hbox (badness 1406) in paragraph at lines 183--184
 []|\TU/FZNewShuSong-Z10(0)/m/n/10 玻 璃、|  蜂 蜡、|
  []
 
-[164] [165]
+[166] [167]
 File: media/image495.png Graphic file (type bmp)
 <media/image495.png>
 File: media/image496.png Graphic file (type bmp)
@@ -2728,14 +2731,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 361--364
 []|[]
  []
 
-[166] [167]
+[168] [169]
 Missing character: There is no 则 in font cmr10!
 File: media/image34.png Graphic file (type bmp)
 <media/image34.png>
- [168]
+ [170]
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-) [169]
+) [171]
 \openout2 = `chapter14.aux'.
 
  (./chapter14.tex
@@ -2747,21 +2750,21 @@ File: media/image512.png Graphic file (type bmp)
 <media/image512.png>
 File: media/image513.png Graphic file (type bmp)
 <media/image513.png>
-[170
+[172
 
 
 
-] [171]
+] [173]
 File: media/image515.png Graphic file (type bmp)
 <media/image515.png>
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
- [172]
+ [174]
 File: media/image516.png Graphic file (type bmp)
 <media/image516.png>
 File: media/image517.png Graphic file (type bmp)
 <media/image517.png>
- [173]
+ [175]
 Underfull \hbox (badness 10000) in paragraph at lines 164--164
 []|\TU/FZNewShuSong-Z10(0)/m/n/10 弹 簧 振 子 或 单 摆
  []
@@ -2772,7 +2775,7 @@ File: media/image520.png Graphic file (type bmp)
 <media/image520.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
-[174]
+[176]
 File: media/image526.png Graphic file (type bmp)
 <media/image526.png>
 
@@ -2783,7 +2786,7 @@ Underfull \hbox (badness 1609) in paragraph at lines 256--256
 Missing character: There is no 机 in font ntx-Regular-tlf-t1!
 Missing character: There is no 械 in font ntx-Regular-tlf-t1!
 Missing character: There is no 波 in font ntx-Regular-tlf-t1!
-[175]
+[177]
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
 File: media/image528.png Graphic file (type bmp)
@@ -2797,7 +2800,7 @@ Overfull \hbox (0.56207pt too wide) in paragraph at lines 298--299
 []|[]| 
  []
 
-[176]
+[178]
 File: media/image532.png Graphic file (type bmp)
 <media/image532.png>
 File: media/image533.png Graphic file (type bmp)
@@ -2819,36 +2822,36 @@ Underfull \hbox (badness 5008) in paragraph at lines 343--343
 
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
-[177]
+[179]
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
- [178]
+ [180]
 File: media/image545.png Graphic file (type bmp)
 <media/image545.png>
 File: media/image546.png Graphic file (type bmp)
 <media/image546.png>
- [179]
+ [181]
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
 File: media/image13.png Graphic file (type bmp)
 <media/image13.png>
- [180]
+ [182]
 File: media/image550.png Graphic file (type bmp)
 <media/image550.png>
- [181]
+ [183]
 File: media/image557.png Graphic file (type bmp)
 <media/image557.png>
- [182]
+ [184]
 Missing character: There is no γ in font ntx-Regular-tlf-t1!
- [183]
+ [185]
 File: media/image558.png Graphic file (type bmp)
 <media/image558.png>
- [184]
+ [186]
 File: media/image560.png Graphic file (type bmp)
 <media/image560.png>
 File: media/image561.png Graphic file (type bmp)
 <media/image561.png>
- [185]
+ [187]
 Underfull \hbox (badness 5008) in paragraph at lines 812--812
 []|\TU/FZNewShuSong-Z10(0)/m/n/10 周 期 性 变 化
  []
@@ -2858,11 +2861,11 @@ Underfull \hbox (badness 5008) in paragraph at lines 818--818
 []|\TU/FZNewShuSong-Z10(0)/m/n/10 纵 波 还 是 横
  []
 
-[186]
+[188]
 Missing character: There is no τ in font ntx-Regular-tlf-t1!
 File: media/image37.png Graphic file (type bmp)
 <media/image37.png>
-) [187]
+) [189]
 附录\nobreakspace {}A A.
 
 Overfull \hbox (43.54936pt too wide) in alignment at lines 47--54
@@ -2946,7 +2949,7 @@ Overfull \hbox (43.54936pt too wide) in alignment at lines 93--107
  [] [] [] [] [] [] [] 
  []
 
-[188
+[190
 
 
 ]
@@ -2985,7 +2988,7 @@ Overfull \hbox (1.6321pt too wide) in alignment at lines 115--244
 Underfull \vbox (badness 10000) detected at line 244
  []
 
-[189
+[191
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
@@ -3001,12 +3004,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 39279 strings out of 479418
- 827118 string characters out of 5884586
+ 39285 strings out of 479418
+ 827196 string characters out of 5884586
  1441335 words of memory out of 5000000
- 55675 multiletter control sequences out of 15000+600000
+ 55680 multiletter control sequences out of 15000+600000
  564288 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  68i,17n,126p,935b,894s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 高中物理学讲义.pdf (192 pages).
+Output written on 高中物理学讲义.pdf (194 pages).

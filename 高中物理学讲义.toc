@@ -93,111 +93,111 @@
 \contentsline {subsection}{\numberline {6.1.4}碰撞问题}{87}{subsection.6.1.4}%
 \contentsline {subsection}{\numberline {6.1.5}爆炸、反冲和``人船模型''}{88}{subsection.6.1.5}%
 \contentsline {section}{第\nobreakspace {}六\nobreakspace {}章\tmspace +\thickmuskip {.2777em}章末总结}{89}{section*.4}%
-\contentsline {chapter}{\numberline {7}静电场}{90}{chapter.7}%
-\contentsline {section}{\numberline {7.1}电场力的性质}{90}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}三个自由点电荷的平衡问题}{91}{subsection.7.1.1}%
-\contentsline {subsection}{\numberline {7.1.2}库仑力作用下的共点力平衡问题}{92}{subsection.7.1.2}%
-\contentsline {subsection}{\numberline {7.1.3}电场强度的理解和应用}{93}{subsection.7.1.3}%
-\contentsline {subsection}{\numberline {7.1.4}电场线的理解和应用}{94}{subsection.7.1.4}%
-\contentsline {subsection}{\numberline {7.1.5}对称法在电场叠加中的应用}{94}{subsection.7.1.5}%
-\contentsline {section}{\numberline {7.2}电场能的性质}{96}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}电势高低与电势能大小的判断}{97}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}等势面与粒子运动轨迹的分析}{98}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}电势差与电场强度的关系}{99}{subsection.7.2.3}%
-\contentsline {subsection}{\numberline {7.2.4}图象在电场中的应用}{99}{subsection.7.2.4}%
-\contentsline {section}{\numberline {7.3}电容器　带电粒子在电场中的运动}{102}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}平行板电容器的动态分析}{103}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}带电粒子在电场中的直线运动}{104}{subsection.7.3.2}%
-\contentsline {subsection}{\numberline {7.3.3}带电粒子在电场中的偏转}{105}{subsection.7.3.3}%
-\contentsline {subsection}{\numberline {7.3.4}带电粒子在交变电场中的运动}{106}{subsection.7.3.4}%
-\contentsline {section}{第\nobreakspace {}七\nobreakspace {}章\tmspace +\thickmuskip {.2777em}章末总结}{107}{section*.5}%
-\contentsline {chapter}{\numberline {8}恒定电流}{108}{chapter.8}%
-\contentsline {section}{\numberline {8.1}电流　电阻　电功及电功率}{108}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}对电流表达式的理解}{109}{subsection.8.1.1}%
-\contentsline {subsection}{\numberline {8.1.2}电阻定律的理解及应用}{109}{subsection.8.1.2}%
-\contentsline {subsection}{\numberline {8.1.3}欧姆定律与伏安特性曲线的理解及应用}{110}{subsection.8.1.3}%
-\contentsline {subsection}{\numberline {8.1.4}电功和电热　电功率和热功率}{111}{subsection.8.1.4}%
-\contentsline {section}{\numberline {8.2}电路　闭合电路的欧姆定律}{112}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}闭合电路的功率及效率问题}{113}{subsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.2.2}电路的动态分析}{114}{subsection.8.2.2}%
-\contentsline {subsection}{\numberline {8.2.3}含电容器电路的分析}{115}{subsection.8.2.3}%
-\contentsline {subsection}{\numberline {8.2.4}两种U-I图线的比较及应用}{115}{subsection.8.2.4}%
-\contentsline {subsection}{\numberline {8.2.5}电路故障的分析与判断}{115}{subsection.8.2.5}%
-\contentsline {chapter}{\numberline {9}磁　　场}{116}{chapter.9}%
-\contentsline {section}{\numberline {9.1}磁场　安培力}{116}{section.9.1}%
-\contentsline {subsection}{\numberline {9.1.1}安培定则的应用和磁场的叠加}{118}{subsection.9.1.1}%
-\contentsline {subsection}{\numberline {9.1.2}安培力的分析和计算}{119}{subsection.9.1.2}%
-\contentsline {subsection}{\numberline {9.1.3}对安培力作用下导体运动问题的探究}{120}{subsection.9.1.3}%
-\contentsline {section}{\numberline {9.2}磁场对运动电荷的作用}{121}{section.9.2}%
-\contentsline {subsection}{\numberline {9.2.1}对洛伦兹力的理解}{122}{subsection.9.2.1}%
-\contentsline {subsection}{\numberline {9.2.2}带电粒子在匀强磁场中的运动}{123}{subsection.9.2.2}%
-\contentsline {subsection}{\numberline {9.2.3}带电粒子在磁场中运动的多解问题}{124}{subsection.9.2.3}%
-\contentsline {section}{\numberline {9.3}带电粒子在复合场中的运动}{125}{section.9.3}%
-\contentsline {subsection}{\numberline {9.3.1}带电粒子在组合场中的运动问题}{128}{subsection.9.3.1}%
-\contentsline {subsection}{\numberline {9.3.2}带电粒子在复合场中的运动问题}{129}{subsection.9.3.2}%
-\contentsline {chapter}{\numberline {10}电磁感应}{130}{chapter.10}%
-\contentsline {section}{\numberline {10.1}电磁感应现象　楞次定律}{130}{section.10.1}%
-\contentsline {subsection}{\numberline {10.1.1}对电磁感应现象的理解}{131}{subsection.10.1.1}%
-\contentsline {subsection}{\numberline {10.1.2}感应电流方向的判断}{132}{subsection.10.1.2}%
-\contentsline {subsection}{\numberline {10.1.3}楞次定律的推论应用}{133}{subsection.10.1.3}%
-\contentsline {subsection}{\numberline {10.1.4}三定则一定律的综合应用}{133}{subsection.10.1.4}%
-\contentsline {section}{\numberline {10.2}法拉第电磁感应定律　自感现象}{134}{section.10.2}%
-\contentsline {subsection}{\numberline {10.2.1}对法拉第电磁感应定律的理解}{135}{subsection.10.2.1}%
-\contentsline {subsection}{\numberline {10.2.2}导体切割磁感线产生感应电动势}{136}{subsection.10.2.2}%
-\contentsline {subsection}{\numberline {10.2.3}自感现象}{137}{subsection.10.2.3}%
-\contentsline {section}{\numberline {10.3}电磁感应定律的综合应用}{138}{section.10.3}%
-\contentsline {subsection}{\numberline {10.3.1}电磁感应中的电路问题}{139}{subsection.10.3.1}%
-\contentsline {subsection}{\numberline {10.3.2}电磁感应中的动力学问题}{140}{subsection.10.3.2}%
-\contentsline {subsection}{\numberline {10.3.3}电磁感应中的能量问题}{141}{subsection.10.3.3}%
-\contentsline {chapter}{\numberline {11}交变电流　传感器}{142}{chapter.11}%
-\contentsline {section}{\numberline {11.1}交变电流的产生及其变化规律}{142}{section.11.1}%
-\contentsline {subsection}{\numberline {11.1.1}正弦交变电流的产生及其变化规律}{143}{subsection.11.1.1}%
-\contentsline {subsection}{\numberline {11.1.2}交变电流``四值''的理解及应用}{144}{subsection.11.1.2}%
-\contentsline {section}{\numberline {11.2}变压器的原理　电能的输送}{145}{section.11.2}%
-\contentsline {subsection}{\numberline {11.2.1}理想变压器的特点与制约关系}{146}{subsection.11.2.1}%
-\contentsline {subsection}{\numberline {11.2.2}理想变压器的动态分析}{147}{subsection.11.2.2}%
-\contentsline {subsection}{\numberline {11.2.3}三种特殊的变压器模型}{148}{subsection.11.2.3}%
-\contentsline {subsection}{\numberline {11.2.4}远距离输电}{149}{subsection.11.2.4}%
-\contentsline {chapter}{\numberline {12}波粒二象性　原子结构与原子核}{150}{chapter.12}%
-\contentsline {section}{\numberline {12.1}波粒二象性}{150}{section.12.1}%
-\contentsline {subsection}{\numberline {12.1.1}光电效应的实验规律}{151}{subsection.12.1.1}%
-\contentsline {subsection}{\numberline {12.1.2}光电效应的图象分析}{152}{subsection.12.1.2}%
-\contentsline {subsection}{\numberline {12.1.3}光的波粒二象性　物质波}{153}{subsection.12.1.3}%
-\contentsline {section}{\numberline {12.2}原子结构与原子核}{154}{section.12.2}%
-\contentsline {subsection}{\numberline {12.2.1}能级图与氢原子的跃迁}{156}{subsection.12.2.1}%
-\contentsline {subsection}{\numberline {12.2.2}原子核的衰变　半衰期}{157}{subsection.12.2.2}%
-\contentsline {subsection}{\numberline {12.2.3}核反应类型与核反应方程}{158}{subsection.12.2.3}%
-\contentsline {subsection}{\numberline {12.2.4}核能的计算}{159}{subsection.12.2.4}%
-\contentsline {chapter}{\numberline {13}热学(选修3-3)}{160}{chapter.13}%
-\contentsline {section}{\numberline {13.1}分子动理论　内能}{160}{section.13.1}%
-\contentsline {subsection}{\numberline {13.1.1}微观量的估计}{162}{subsection.13.1.1}%
-\contentsline {subsection}{\numberline {13.1.2}分子热运动与布朗运动}{163}{subsection.13.1.2}%
-\contentsline {subsection}{\numberline {13.1.3}分子与分子势能}{163}{subsection.13.1.3}%
-\contentsline {section}{\numberline {13.2}固体、液体和气体}{164}{section.13.2}%
-\contentsline {subsection}{\numberline {13.2.1}固体和液体的性质}{166}{subsection.13.2.1}%
-\contentsline {subsection}{\numberline {13.2.2}气体压强的计算}{166}{subsection.13.2.2}%
-\contentsline {subsection}{\numberline {13.2.3}气体实验定律及状态方程的应用}{166}{subsection.13.2.3}%
-\contentsline {section}{\numberline {13.3}热力学定律与能量守恒}{167}{section.13.3}%
-\contentsline {subsection}{\numberline {13.3.1}热力学第一定律}{168}{subsection.13.3.1}%
-\contentsline {subsection}{\numberline {13.3.2}热力学第二定律}{169}{subsection.13.3.2}%
-\contentsline {chapter}{\numberline {14}振动和波　光　相对论(选修3-4)}{170}{chapter.14}%
-\contentsline {section}{\numberline {14.1}机械振动}{170}{section.14.1}%
-\contentsline {subsection}{\numberline {14.1.1}简谐运动的五个特征}{172}{subsection.14.1.1}%
-\contentsline {subsection}{\numberline {14.1.2}简谐运动的图象}{173}{subsection.14.1.2}%
-\contentsline {subsection}{\numberline {14.1.3}受迫振动和共振}{174}{subsection.14.1.3}%
-\contentsline {section}{\numberline {14.2}机械波}{175}{section.14.2}%
-\contentsline {subsection}{\numberline {14.2.1}对波动图象的理解与应用}{176}{subsection.14.2.1}%
-\contentsline {subsection}{\numberline {14.2.2}振动图象和波动图象的综合应用}{177}{subsection.14.2.2}%
-\contentsline {subsection}{\numberline {14.2.3}波的多解问题}{178}{subsection.14.2.3}%
-\contentsline {subsection}{\numberline {14.2.4}波的干涉和衍射　多普勒效应}{178}{subsection.14.2.4}%
-\contentsline {section}{\numberline {14.3}光的折射　全反射}{179}{section.14.3}%
-\contentsline {subsection}{\numberline {14.3.1}对折射率的理解}{180}{subsection.14.3.1}%
-\contentsline {subsection}{\numberline {14.3.2}光的折射与全反射的综合应用}{180}{subsection.14.3.2}%
-\contentsline {subsection}{\numberline {14.3.3}光的色散}{181}{subsection.14.3.3}%
-\contentsline {section}{\numberline {14.4}光的波动性　电磁波和相对论}{182}{section.14.4}%
-\contentsline {subsection}{\numberline {14.4.1}光的干涉、衍射和偏振}{184}{subsection.14.4.1}%
-\contentsline {subsection}{\numberline {14.4.2}薄膜干涉现象的理解}{185}{subsection.14.4.2}%
-\contentsline {subsection}{\numberline {14.4.3}电磁场和电磁波}{186}{subsection.14.4.3}%
-\contentsline {subsection}{\numberline {14.4.4}狭义相对论}{187}{subsection.14.4.4}%
-\contentsline {chapter}{\numberline {A}希腊字母常用指代意义及其中文读音}{188}{appendix.A}%
-\contentsline {chapter}{\numberline {B}高中物理公式}{189}{appendix.B}%
+\contentsline {chapter}{\numberline {7}静电场}{92}{chapter.7}%
+\contentsline {section}{\numberline {7.1}电场力的性质}{92}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}三个自由点电荷的平衡问题}{93}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}库仑力作用下的共点力平衡问题}{94}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}电场强度的理解和应用}{95}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}电场线的理解和应用}{96}{subsection.7.1.4}%
+\contentsline {subsection}{\numberline {7.1.5}对称法在电场叠加中的应用}{96}{subsection.7.1.5}%
+\contentsline {section}{\numberline {7.2}电场能的性质}{98}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}电势高低与电势能大小的判断}{99}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}等势面与粒子运动轨迹的分析}{100}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}电势差与电场强度的关系}{101}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}图象在电场中的应用}{101}{subsection.7.2.4}%
+\contentsline {section}{\numberline {7.3}电容器　带电粒子在电场中的运动}{104}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}平行板电容器的动态分析}{105}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}带电粒子在电场中的直线运动}{106}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}带电粒子在电场中的偏转}{107}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}带电粒子在交变电场中的运动}{108}{subsection.7.3.4}%
+\contentsline {section}{第\nobreakspace {}七\nobreakspace {}章\tmspace +\thickmuskip {.2777em}章末总结}{109}{section*.5}%
+\contentsline {chapter}{\numberline {8}恒定电流}{110}{chapter.8}%
+\contentsline {section}{\numberline {8.1}电流　电阻　电功及电功率}{110}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}对电流表达式的理解}{111}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}电阻定律的理解及应用}{111}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}欧姆定律与伏安特性曲线的理解及应用}{112}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}电功和电热　电功率和热功率}{113}{subsection.8.1.4}%
+\contentsline {section}{\numberline {8.2}电路　闭合电路的欧姆定律}{114}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}闭合电路的功率及效率问题}{115}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}电路的动态分析}{116}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}含电容器电路的分析}{117}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}两种U-I图线的比较及应用}{117}{subsection.8.2.4}%
+\contentsline {subsection}{\numberline {8.2.5}电路故障的分析与判断}{117}{subsection.8.2.5}%
+\contentsline {chapter}{\numberline {9}磁　　场}{118}{chapter.9}%
+\contentsline {section}{\numberline {9.1}磁场　安培力}{118}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}安培定则的应用和磁场的叠加}{120}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}安培力的分析和计算}{121}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}对安培力作用下导体运动问题的探究}{122}{subsection.9.1.3}%
+\contentsline {section}{\numberline {9.2}磁场对运动电荷的作用}{123}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}对洛伦兹力的理解}{124}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}带电粒子在匀强磁场中的运动}{125}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}带电粒子在磁场中运动的多解问题}{126}{subsection.9.2.3}%
+\contentsline {section}{\numberline {9.3}带电粒子在复合场中的运动}{127}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}带电粒子在组合场中的运动问题}{130}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}带电粒子在复合场中的运动问题}{131}{subsection.9.3.2}%
+\contentsline {chapter}{\numberline {10}电磁感应}{132}{chapter.10}%
+\contentsline {section}{\numberline {10.1}电磁感应现象　楞次定律}{132}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}对电磁感应现象的理解}{133}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}感应电流方向的判断}{134}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}楞次定律的推论应用}{135}{subsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.1.4}三定则一定律的综合应用}{135}{subsection.10.1.4}%
+\contentsline {section}{\numberline {10.2}法拉第电磁感应定律　自感现象}{136}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}对法拉第电磁感应定律的理解}{137}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}导体切割磁感线产生感应电动势}{138}{subsection.10.2.2}%
+\contentsline {subsection}{\numberline {10.2.3}自感现象}{139}{subsection.10.2.3}%
+\contentsline {section}{\numberline {10.3}电磁感应定律的综合应用}{140}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}电磁感应中的电路问题}{141}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.3.2}电磁感应中的动力学问题}{142}{subsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.3.3}电磁感应中的能量问题}{143}{subsection.10.3.3}%
+\contentsline {chapter}{\numberline {11}交变电流　传感器}{144}{chapter.11}%
+\contentsline {section}{\numberline {11.1}交变电流的产生及其变化规律}{144}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}正弦交变电流的产生及其变化规律}{145}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}交变电流``四值''的理解及应用}{146}{subsection.11.1.2}%
+\contentsline {section}{\numberline {11.2}变压器的原理　电能的输送}{147}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}理想变压器的特点与制约关系}{148}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}理想变压器的动态分析}{149}{subsection.11.2.2}%
+\contentsline {subsection}{\numberline {11.2.3}三种特殊的变压器模型}{150}{subsection.11.2.3}%
+\contentsline {subsection}{\numberline {11.2.4}远距离输电}{151}{subsection.11.2.4}%
+\contentsline {chapter}{\numberline {12}波粒二象性　原子结构与原子核}{152}{chapter.12}%
+\contentsline {section}{\numberline {12.1}波粒二象性}{152}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}光电效应的实验规律}{153}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {12.1.2}光电效应的图象分析}{154}{subsection.12.1.2}%
+\contentsline {subsection}{\numberline {12.1.3}光的波粒二象性　物质波}{155}{subsection.12.1.3}%
+\contentsline {section}{\numberline {12.2}原子结构与原子核}{156}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}能级图与氢原子的跃迁}{158}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}原子核的衰变　半衰期}{159}{subsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.2.3}核反应类型与核反应方程}{160}{subsection.12.2.3}%
+\contentsline {subsection}{\numberline {12.2.4}核能的计算}{161}{subsection.12.2.4}%
+\contentsline {chapter}{\numberline {13}热学(选修3-3)}{162}{chapter.13}%
+\contentsline {section}{\numberline {13.1}分子动理论　内能}{162}{section.13.1}%
+\contentsline {subsection}{\numberline {13.1.1}微观量的估计}{164}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.2}分子热运动与布朗运动}{165}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.1.3}分子与分子势能}{165}{subsection.13.1.3}%
+\contentsline {section}{\numberline {13.2}固体、液体和气体}{166}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}固体和液体的性质}{168}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}气体压强的计算}{168}{subsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.2.3}气体实验定律及状态方程的应用}{168}{subsection.13.2.3}%
+\contentsline {section}{\numberline {13.3}热力学定律与能量守恒}{169}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}热力学第一定律}{170}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}热力学第二定律}{171}{subsection.13.3.2}%
+\contentsline {chapter}{\numberline {14}振动和波　光　相对论(选修3-4)}{172}{chapter.14}%
+\contentsline {section}{\numberline {14.1}机械振动}{172}{section.14.1}%
+\contentsline {subsection}{\numberline {14.1.1}简谐运动的五个特征}{174}{subsection.14.1.1}%
+\contentsline {subsection}{\numberline {14.1.2}简谐运动的图象}{175}{subsection.14.1.2}%
+\contentsline {subsection}{\numberline {14.1.3}受迫振动和共振}{176}{subsection.14.1.3}%
+\contentsline {section}{\numberline {14.2}机械波}{177}{section.14.2}%
+\contentsline {subsection}{\numberline {14.2.1}对波动图象的理解与应用}{178}{subsection.14.2.1}%
+\contentsline {subsection}{\numberline {14.2.2}振动图象和波动图象的综合应用}{179}{subsection.14.2.2}%
+\contentsline {subsection}{\numberline {14.2.3}波的多解问题}{180}{subsection.14.2.3}%
+\contentsline {subsection}{\numberline {14.2.4}波的干涉和衍射　多普勒效应}{180}{subsection.14.2.4}%
+\contentsline {section}{\numberline {14.3}光的折射　全反射}{181}{section.14.3}%
+\contentsline {subsection}{\numberline {14.3.1}对折射率的理解}{182}{subsection.14.3.1}%
+\contentsline {subsection}{\numberline {14.3.2}光的折射与全反射的综合应用}{182}{subsection.14.3.2}%
+\contentsline {subsection}{\numberline {14.3.3}光的色散}{183}{subsection.14.3.3}%
+\contentsline {section}{\numberline {14.4}光的波动性　电磁波和相对论}{184}{section.14.4}%
+\contentsline {subsection}{\numberline {14.4.1}光的干涉、衍射和偏振}{186}{subsection.14.4.1}%
+\contentsline {subsection}{\numberline {14.4.2}薄膜干涉现象的理解}{187}{subsection.14.4.2}%
+\contentsline {subsection}{\numberline {14.4.3}电磁场和电磁波}{188}{subsection.14.4.3}%
+\contentsline {subsection}{\numberline {14.4.4}狭义相对论}{189}{subsection.14.4.4}%
+\contentsline {chapter}{\numberline {A}希腊字母常用指代意义及其中文读音}{190}{appendix.A}%
+\contentsline {chapter}{\numberline {B}高中物理公式}{191}{appendix.B}%

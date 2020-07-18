@@ -810,8 +810,8 @@
       \node[opacity=0.8,
             anchor=south east,
             outer sep=0pt,
-            inner sep=0pt] at ($(current page.south east) +(-0.8in,1.5in)$) {
-              \ifcsname @logo\endcsname\includegraphics[width=12cm]{\@logo}\fi};
+            inner sep=0pt] at ($(current page.south east) +(-0.3in,1.7in)$) {
+              \ifcsname @logo\endcsname\includegraphics[width=13cm]{\@logo}\fi};
     \end{pgfonlayer}
   \end{tikzpicture}
   \end{minipage}

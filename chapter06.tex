@@ -417,6 +417,37 @@ D．$\dfrac{v_{2}-v_{0}}{v_{2}-v_{1}} M$
 		\begin{equation}
 			E_k=\dfrac{1}{2}\dfrac{m_1m_2}{m_1+m_2}(v_1-v_2)^2
 		\end{equation}
+		\item 结论
 		
+		公式(6.6)可以与能量守恒等效，在完全弹性碰撞的计算中，能量守恒公式可以直接用资用能守恒代替，在化简后会变成相对速度守恒：$\lvert v_1-v_2 \rvert=\lvert v_1^\prime-v_2^\prime \rvert$，去掉绝对值后：$v_1-v_2=v_2^\prime-v_1^\prime $；非完全弹性碰撞中，损失的能量为初末状态资用能差值。
 	\end{itemize}
+	\newpage
+	\item 速度增量
+	
+	上面我们使用柯尼希定理中的资用能表达式优化了碰撞的计算，接下来我们继续优化完全弹性碰撞的计算。
+	
+	设两质点质量为$m_1,m_2$，速度为$v_1,v_2$，完全非弹性碰撞速度为$v_c$，完全弹性碰撞速度为$v_1^\prime$,$v_2^\prime$。对任一物体分析：初速度到共同速度的增量等于共同速度到末速度的增量。即：
+		\begin{equation}
+			v_c-v_1=v_1^\prime-v_c
+		\end{equation}
+		\begin{equation}
+			v_c-v_2=v_2^\prime-v_c
+		\end{equation}
+	至此，我们已经可以口算完全弹性碰撞了。
+
+	下面给出速度增量的几何证明：
+	\begin{center}
+		\includegraphics[width=13cm]{media/61.png}
+	\end{center}
+	图片来源：\href{https://www.geogebra.org/classic/dma875ya}{https://www.geogebra.org/classic/dma875ya}
+	
+	如图，坐标系横轴为b的末速度，纵轴为a的末速度。蓝色函数是动量守恒，点A是a，b的初速度，由于初速度$v_a>v_b$，碰撞后有$v_a<=v_b$，所以过坐标系原点作函数y=x，函数上及右边的区域符合$v_a<=v_b$。函数y=x交函数动量定理于点B，则B点是共速点。由柯尼希定理可知相对速度不会增加，作点A关于点B的对称点C，则集合[B,C]上的点满足动量守恒及柯尼希定理。
+
+	由于相对速度证明和能量守恒证明可以替换，能量守恒方程（黄色）也可证明BC段的有效性。
+	\newpage
+	\item 动量中的$\pi$
+	
+	美国东伊利诺大学Gregory Galperin教授在1995年东伊利诺斯大学数学讨论会上首次报告了两球与墙壁三者间的总碰撞次数与圆周率之间的关系，当他在报告中公布这个结论时，听众们开始都觉得难以置信，但在给出证明后，听众们又纷纷表示信服。2003年，Gregory Galperin教授在论文《Playing pool with π — The number π from a billiard point of view》中公布了证明过程，他的主要证明思路是将碰撞次数问题转化为类似于光学中平面镜反射次数问题。
+
+	
 \end{problemset}
