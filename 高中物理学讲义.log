@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  20 JUL 2020 13:33
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.5)  20 JUL 2020 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1456,28 +1456,28 @@ Package: xeCJK-listings 2020/02/18 v3.8.2 xeCJK patch file for listings
 ) (./高中物理学讲义.aux (./chapter01.aux) (./chapter02.aux) (./chapter03.aux) (./chapter04.aux) (./chapter05.aux) (./chapter06.aux) (./chapter07.aux) (./chapter08.aux) (./chapter09.aux) (./chapter10.aux) (./chapter11.aux) (./chapter12.aux) (./chapter13.aux) (./chapter14.aux))
 \openout1 = `高中物理学讲义.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 \AtBeginShipoutBox=\box139
-Package hyperref Info: Link coloring ON on input line 22.
+Package hyperref Info: Link coloring ON on input line 19.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1487,9 +1487,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count540
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
  (./高中物理学讲义.out) (./高中物理学讲义.out)
 \@outlinefile=\write9
 \openout9 = `高中物理学讲义.out'.
@@ -1530,7 +1530,7 @@ LaTeX Info: Redefining \nameref on input line 22.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 22.
+LaTeX Info: Redefining \selectfont on input line 19.
 \c@mv@tabular=\count541
 \c@mv@boldtabular=\count542
 Package caption Info: Begin \AtBeginDocument code.
@@ -1567,11 +1567,11 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '高中物理学讲义.bbl' not found.
 
 No file 高中物理学讲义.bbl.
-Package biblatex Info: Reference section=0 on input line 22.
-Package biblatex Info: Reference segment=0 on input line 22.
+Package biblatex Info: Reference section=0 on input line 19.
+Package biblatex Info: Reference segment=0 on input line 19.
 ABD: EveryShipout initializing macros
 \c@lstlisting=\count544
-Package hyperref Info: Option `pageanchor' set `false' on input line 26.
+Package hyperref Info: Option `pageanchor' set `false' on input line 23.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1607,23 +1607,23 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 26.
 File: ./figure/cover.png Graphic file (type bmp)
 <./figure/cover.png>
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 26.
+(Font)              scaled to size 10.95pt on input line 23.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 24.88pt on input line 26.
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 26.
+(Font)              scaled to size 24.88pt on input line 23.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 23.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 26.
+(Font)              scaled to size 14.4pt on input line 23.
 
 Package fontspec Info: Could not resolve font "FZKai-Z03/BI" (it probably
 (fontspec)             doesn't exist).
@@ -1653,7 +1653,7 @@ Package fontspec Info: Font family 'FZKai-Z03(0)' created for font 'FZKai-Z03'
 
 ]
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 29.
+(Font)              scaled to size 17.28pt on input line 26.
  (./高中物理学讲义.toc [1
 
 
@@ -1663,7 +1663,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 \openout10 = `高中物理学讲义.toc'.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 31.
+(Font)              scaled to size 8.0pt on input line 28.
  [2]
 \openout2 = `chapter01.aux'.
 
@@ -3835,12 +3835,12 @@ File: media/image37.png Graphic file (type bmp)
 ) [221]
 附录\nobreakspace {}A A.
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
 []|\TU/FZShuSong-Z01(0)/b/n/10.95 英 语 音 标 注
  []
 
 
-Overfull \hbox (43.54936pt too wide) in alignment at lines 53--60
+Overfull \hbox (43.54936pt too wide) in alignment at lines 50--57
  [] [] [] [] [] [] [] 
  []
 
@@ -3875,7 +3875,7 @@ Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
 Missing character: There is no ˌ in font ntx-Regular-tlf-t1!
 Missing character: There is no ɑ in font ntx-Regular-tlf-t1!
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
 []|\T1/ntxtlf/m/n/10.95 /umaikrn/\TU/FZShuSong-Z01(0)/m/n/10.95 或
  []
 
@@ -3896,7 +3896,7 @@ Missing character: There is no ʌ in font ntx-Regular-tlf-t1!
 Missing character: There is no ɪ in font ntx-Regular-tlf-t1!
 Missing character: There is no ɒ in font ntx-Regular-tlf-t1!
 
-Overfull \hbox (43.54936pt too wide) in alignment at lines 60--99
+Overfull \hbox (43.54936pt too wide) in alignment at lines 57--96
  [] [] [] [] [] [] [] 
  []
 
@@ -3912,12 +3912,12 @@ Missing character: There is no ʊ in font ntx-Regular-tlf-t1!
 Missing character: There is no ɡ in font ntx-Regular-tlf-t1!
 Missing character: There is no ə in font ntx-Regular-tlf-t1!
 
-Overfull \hbox (4.6638pt too wide) in paragraph at lines 106--110
+Overfull \hbox (4.6638pt too wide) in paragraph at lines 103--107
 []|[]| 
  []
 
 
-Overfull \hbox (43.54936pt too wide) in alignment at lines 99--113
+Overfull \hbox (43.54936pt too wide) in alignment at lines 96--110
  [] [] [] [] [] [] [] 
  []
 
@@ -3927,39 +3927,39 @@ Overfull \hbox (43.54936pt too wide) in alignment at lines 99--113
 ] [223]
 附录\nobreakspace {}B B.
 
-Overfull \hbox (1.6321pt too wide) in alignment at lines 119--121
+Overfull \hbox (1.6321pt too wide) in alignment at lines 116--118
  [] [] [] [] 
  []
 
 
-Overfull \vbox (73.44034pt too high) detected at line 129
+Overfull \vbox (73.44034pt too high) detected at line 126
  []
 
 
-Overfull \vbox (18.3601pt too high) detected at line 175
+Overfull \vbox (18.3601pt too high) detected at line 172
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--185
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []|\TU/FZShuSong-Z01(0)/m/n/10.95 牛 顿
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--185
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 \TU/FZShuSong-Z01(0)/m/n/10.95 运 动
  []
 
 
-Overfull \vbox (36.72017pt too high) detected at line 190
+Overfull \vbox (36.72017pt too high) detected at line 187
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--216
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
 []|\TU/FZShuSong-Z01(0)/m/n/10.95 万 有
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--216
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
 \TU/FZShuSong-Z01(0)/m/n/10.95 引 力
  []
 
@@ -3967,22 +3967,22 @@ Missing character: There is no − in font cmr8!
 Missing character: There is no · in font cmr10!
 Missing character: There is no 𝑚 in font cmmi10!
 
-Overfull \hbox (1.6321pt too wide) in alignment at lines 121--250
+Overfull \hbox (1.6321pt too wide) in alignment at lines 118--247
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 250
+Underfull \vbox (badness 10000) detected at line 247
  []
 
 [224
 
 ] [225]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
  (./高中物理学讲义.aux (./chapter01.aux) (./chapter02.aux) (./chapter03.aux) (./chapter04.aux) (./chapter05.aux) (./chapter06.aux) (./chapter07.aux) (./chapter08.aux) (./chapter09.aux) (./chapter10.aux) (./chapter11.aux) (./chapter12.aux) (./chapter13.aux) (./chapter14.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 251.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 248.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
 Package rerunfilecheck Info: File `高中物理学讲义.out' has not changed.
 (rerunfilecheck)             Checksum: 2954331CC188F6DB36DF9232B070B790;8587.
 
