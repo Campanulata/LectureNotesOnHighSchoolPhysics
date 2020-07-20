@@ -1,6 +1,8 @@
-\documentclass[cn,10.5pt,chinese,mac,chinesefont=founder]{elegantbook}
+\documentclass[cn,11pt,answer,founder]{elegantbook}
 \usepackage{graphicx,longtable, verbatim, pifont}
 \usepackage{extarrows}
+\usepackage{titletoc}
+
 \title{高中物理学讲义}
 %\subtitle{\LaTeX{} }
 \author{Campanulata}
@@ -10,13 +12,17 @@
 \bioinfo{项目地址}{\href{https://github.com/Campanulata/LectureNotesOnHighSchoolPhysics}{https://github.com/Campanulata/LectureNotesOnHighSchoolPhysics}}
 \extrainfo{So far as the theories of mathematics are about reality, they are not certain; so far as they are certain, they are not about reality.—— Albert Einstein}
 
-\logo{crm.png}\cover{cover.jpg}
+%\logo{crm.png}
+\cover{cover.png}
 
 % 本文档命令
 \usepackage{array}
 \newcommand{\ccr}[1]{\makecell{{\color{#1}\rule{1cm}{1cm}}}}
 
 \begin{document}
+%%%
+\titlecontents{chapter}[0pt]{\addvspace{1.5pt}\filright\bf}{\contentspush{第\thecontentslabel\ 章\quad}}{}{\titlerule*[8pt]{.}\contentspage}
+%%%
 \maketitle
 \frontmatter
 

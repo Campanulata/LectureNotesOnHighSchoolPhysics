@@ -8,7 +8,8 @@
 %%%%%%%%%%%%%%%%%%%%%
 % % !Mode:: "TeX:UTF-8"
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{elegantbook}[2020/04/12 v3.11 ElegantBook document class]
+\ProvidesClass{elegantbook}[2020/07/06 v4.0.2 ElegantBook document class]
+
 \RequirePackage{kvoptions}
 \RequirePackage{etoolbox}
 \SetupKeyvalOptions{family=ELEGANT, prefix=ELEGANT@, setkeys=\kvsetkeys}
@@ -52,13 +53,6 @@
 \DeclareVoidOption{normal}{\ekv{device=normal}}
 \DeclareVoidOption{pad}{\ekv{device=pad}}
 
-\DeclareStringOption[numbers]{cite}
-\DeclareVoidOption{numbers}{\ekv{cite=numbers}}
-\DeclareVoidOption{authoryear}{\ekv{cite=authoryear}}
-\DeclareVoidOption{super}{\ekv{cite=super}}
-
-\DeclareStringOption[apalike]{bibstyle}
-
 \DeclareVoidOption{newtx}{\ekv{math=newtx}}
 \DeclareVoidOption{mtpro2}{\ekv{math=mtpro2}}
 \DeclareVoidOption{cm}{\ekv{math=cm}}
@@ -85,6 +79,10 @@
 \LoadClass[a4paper,oneside]{book}
 
 \RequirePackage{setspace}
+
+\RequirePackage{csquotes}
+
+
 \RequirePackage{hyperref}
 \hypersetup{
   breaklinks,
@@ -143,12 +141,12 @@
   \ifXeTeX
     \ifdefstring{\ELEGANT@chinesefont}{founder}{
       \RequirePackage[UTF8,scheme=plain,fontset=none]{ctex}
-      \setCJKmainfont[BoldFont={FZHei-B01},ItalicFont={FZNewKai-Z03}]{FZNewShuSong-Z10}
+      \setCJKmainfont[BoldFont={FZHei-B01},ItalicFont={FZKai-Z03}]{FZShuSong-Z01}
       \setCJKsansfont[BoldFont={FZHei-B01},ItalicFont={FZHei-B01}]{FZHei-B01}
       \setCJKmonofont[BoldFont={FZHei-B01},ItalicFont={FZHei-B01}]{FZFangSong-Z02}
       \setCJKfamilyfont{zhsong}{FZShuSong-Z01}
       \setCJKfamilyfont{zhhei}{FZHei-B01}
-      \setCJKfamilyfont{zhkai}{FZNewKai-Z03}
+      \setCJKfamilyfont{zhkai}{FZKai-Z03}
       \setCJKfamilyfont{zhfs}{FZFangSong-Z02}
       \newcommand*{\songti}{\CJKfamily{zhsong}}
       \newcommand*{\heiti}{\CJKfamily{zhhei}}
@@ -166,7 +164,9 @@
   \fi
   \AfterEndPreamble{
     % \renewcommand{\itshape}{\kaishu}
-    \setlength\parindent{2\ccwd}}}{\relax}
+    \setlength\parindent{2\ccwd}}
+}{\relax}
+
 
 \ifcsname kaishu\endcsname
   \newcommand{\citshape}{\kaishu}
@@ -191,7 +191,7 @@
   \RequirePackage{newtxmath}
   \let\Bbbk\relax
   \RequirePackage{esint}
-  %%% use yhmath pkg, uncomment following code
+  %% use yhmath pkg, uncomment following code
   % \let\oldwidering\widering
   % \let\widering\undefined
   % \RequirePackage{yhmath}
@@ -294,9 +294,6 @@
 
 \newcommand{\question}[1]{{\par\citshape #1}\\[0.2ex]}
 
-\ifdefstring{\ELEGANT@lang}{cn}{\relax}{
-  \RequirePackage[\ELEGANT@cite,sort&compress]{natbib}}
-
 \RequirePackage{enumerate}
 % list/itemize/enumerate setting
 \RequirePackage[shortlabels,inline]{enumitem}
@@ -328,7 +325,7 @@
 
 \RequirePackage{graphicx}
 %\RequirePackage{enumerate}
-\RequirePackage{amsmath,mathrsfs,amsfonts,amssymb,yhmath}
+\RequirePackage{amsmath,mathrsfs,amsfonts,amssymb}
 % \providecommand\qed{}
 % \renewcommand{\qed}{\hfill\ensuremath{\square}}
 \RequirePackage{booktabs}
@@ -337,6 +334,18 @@
 \RequirePackage{fancyvrb}
 \RequirePackage{makecell,lipsum,hologo}
 %%中文结构名字
+
+\ifdefstring{\ELEGANT@lang}{cn}{
+  \RequirePackage[
+    backend=biber,
+    style=gb7714-2015,
+    sorting=gb7714-2015]{biblatex}}{
+  \RequirePackage[
+    backend=biber,
+    style=numeric-comp,
+    sorting=none]{biblatex}
+}
+
 \ifdefstring{\ELEGANT@lang}{cn}{
   \renewcommand{\contentsname}{目录}
   \renewcommand{\figurename}{图}
@@ -357,12 +366,6 @@
   \newcommand{\institutename}{\citshape 组织：}
   \newcommand{\datename}{\citshape 时间：}
   \newcommand{\versionname}{\citshape 版本：}
-  \RequirePackage{gbt7714}
-  \ifdefstring{\ELEGANT@cite}{authoryear}{
-    \bibliographystyle{gbt7714-author-year}}{
-    \bibliographystyle{gbt7714-numerical}}
-  \ifdefstring{\ELEGANT@cite}{numbers}{
-    \citestyle{numbers}}{\relax}
   \newcommand{\notename}{笔记}
   \renewcommand*{\proofname}{证明}
   \newcommand{\problemname}{例题}
@@ -378,23 +381,24 @@
   \newcommand{\remarkname}{注}
   \newcommand{\assumptionname}{假设}
   \newcommand{\conclusionname}{结论}
-  \newcommand{\solutionname}{解: }
+  \newcommand{\solutionname}{解}
   \newcommand{\propertyname}{性质}
   \newcommand{\introductionname}{内容提要}
-  \newcommand{\problemsetname}{章末总结}
+  \newcommand{\problemsetname}{习题}
   \newcommand\bioinfo[2]{\gdef\@bioinfo{{\citshape #1}：#2}}
   \newcommand{\updatename}{更新：}
-  \newcommand{\historyname}{版本更新历史}}{\relax}
+  \newcommand{\historyname}{版本更新历史}
+  }{\relax}
 \ifdefstring{\ELEGANT@lang}{en}{
   \setlength\parindent{2em}
   \newcommand\figref[1]{\textbf{Figure}~\ref{#1}}
   \newcommand\tabref[1]{\textbf{Table}~\ref{#1}}
+  \renewcommand{\partname}{\color{structurecolor} Part}
   \renewcommand{\chaptername}{Chapter \thechapter}
   \newcommand{\authorname}{\textbf{Author: }}
   \newcommand{\institutename}{\textbf{Institute: }}
   \newcommand{\datename}{\textbf{Date: }}
   \newcommand{\versionname}{\textbf{Version: }}
-  \bibliographystyle{\ELEGANT@bibstyle}
   \newcommand{\notename}{Note}
   \newcommand{\proofname}{Proof}
   \newcommand{\problemname}{Problem}
@@ -429,7 +433,6 @@
   \newcommand{\institutename}{\textbf{Istituto: }}
   \newcommand{\datename}{\textbf{Data: }}
   \newcommand{\versionname}{\textbf{Versione: }}
-  \bibliographystyle{\ELEGANT@bibstyle}
   \newcommand{\notename}{Nota}
   \newcommand{\proofname}{Dimostrazione}
   \newcommand{\problemname}{Problema}
@@ -454,8 +457,6 @@
   \newcommand{\historyname}{Cronologia delle versioni}
 }{\relax}
 
-\setlength{\bibsep}{0.0pt}
-\def\bibfont{\footnotesize}
 
 \RequirePackage{xpatch}
 \xpatchcmd{\part}{
@@ -496,15 +497,13 @@
 {\filcenter\LARGE\enspace\bfseries{\color{structurecolor}\IfAppendix{\appendixname}{\chaptername}\enspace}}{1pt}{\bfseries\color{structurecolor}\LARGE\filcenter}[]
 
 \titleformat{\section}[hang]{\bfseries}{
-  \Large\bfseries{\color{structurecolor}第\arabic{section}讲}\enspace}{1pt}{%
+  \Large\bfseries{\color{structurecolor}\thesection}\enspace}{1pt}{%
   \color{structurecolor}\Large\bfseries\filright}
-
 \titleformat{\subsection}[hang]{\bfseries}{
-  \large\bfseries\color{structurecolor}考法\zhnumber{\arabic{subsection}}\enspace}{1pt}{%
+  \large\bfseries\color{structurecolor}\thesubsection\enspace}{1pt}{%
   \color{structurecolor}\large\bfseries\filright}
-
 \titleformat{\subsubsection}[hang]{\bfseries}{
-  \large\bfseries\color{structurecolor}考法\zhnumber{\arabic{subsubsection}}\enspace}{1pt}{%
+  \large\bfseries\color{structurecolor}\thesubsubsection\enspace}{1pt}{%
   \color{structurecolor}\large\bfseries\filright}
 
 
@@ -513,9 +512,7 @@
 
 %%define the note and proof environment
 \RequirePackage{pifont,manfnt,bbding}
-
 \RequirePackage[many]{tcolorbox}
-
 % \newlength{\normalparindent}
 % \setlength{\normalparindent}{\parindent}
 \ifdefstring{\ELEGANT@mode}{fancy}{
@@ -565,15 +562,42 @@
       overlay unbroken and last={
         \node[anchor=south east, outer sep=0pt] at (\linewidth-width,0) {
           \textcolor{third}{$\spadesuit$}};}},}
+  % \newtcbtheorem[auto counter,number within=chapter]{definition}{\definitionname}{defstyle}{def}
+  \DeclareTColorBox[auto counter,number within=chapter]{definition}{ o t\label g }{
+    common,defstyle,
+    IfValueTF={#1}{title={\definitionname~\thetcbcounter\ (#1)}}{title=\definitionname~\thetcbcounter},
+    IfBooleanTF={#2}{label=#3}{}}
+  % \newtcbtheorem[auto counter,number within=chapter]{theorem}{\theoremname}{thmstyle}{thm}
+  \DeclareTColorBox[auto counter,number within=chapter]{theorem}{ o t\label g }{
+    common,thmstyle,
+    IfValueTF={#1}{title={\theoremname~\thetcbcounter\ (#1)}}{title=\theoremname~\thetcbcounter},
+    IfBooleanTF={#2}{label=#3}{}}
+  % \newtcbtheorem[auto counter,number within=chapter]{postulate}{\postulatename}{thmstyle}{pos}
+  \DeclareTColorBox[auto counter,number within=chapter]{postulate}{ o t\label g }{
+    common,thmstyle,
+    IfValueTF={#1}{title={\postulatename~\thetcbcounter\ (#1)}}{title=\postulatename~\thetcbcounter},
+    IfBooleanTF={#2}{label=#3}{}}
+  % \newtcbtheorem[auto counter,number within=chapter]{axiom}{\axiomname}{thmstyle}{axi}
+  \DeclareTColorBox[auto counter,number within=chapter]{axiom}{ o t\label g }{
+    common,thmstyle,
+    IfValueTF={#1}{title={\axiomname~\thetcbcounter\ (#1)}}{title=\axiomname~\thetcbcounter},
+    IfBooleanTF={#2}{label=#3}{}}
+  % \newtcbtheorem[auto counter,number within=chapter]{corollary}{\corollaryname}{thmstyle}{cor}
+  \DeclareTColorBox[auto counter,number within=chapter]{corollary}{ o t\label g }{
+    common,thmstyle,
+    IfValueTF={#1}{title={\corollaryname~\thetcbcounter\ (#1)}}{title=\corollaryname~\thetcbcounter},
+    IfBooleanTF={#2}{label=#3}{}}
+  % \newtcbtheorem[auto counter,number within=chapter]{lemma}{\lemmaname}{thmstyle}{lem}
+  \DeclareTColorBox[auto counter,number within=chapter]{lemma}{ o t\label g }{
+    common,thmstyle,
+    IfValueTF={#1}{title={\lemmaname~\thetcbcounter\ (#1)}}{title=\lemmaname~\thetcbcounter},
+    IfBooleanTF={#2}{label=#3}{}}
+  % \newtcbtheorem[auto counter,number within=chapter]{proposition}{\propositionname}{propstyle}{pro}
+  \DeclareTColorBox[auto counter,number within=chapter]{proposition}{ o t\label g }{
+    common,propstyle,
+    IfValueTF={#1}{title={\propositionname~\thetcbcounter\ (#1)}}{title=\propositionname~\thetcbcounter},
+    IfBooleanTF={#2}{label=#3}{}}}{\relax}
 
-  \newtcbtheorem[auto counter,number within=chapter]{definition}{\definitionname}{defstyle}{def}
-  \newtcbtheorem[auto counter,number within=chapter]{theorem}{\theoremname}{thmstyle}{thm}
-  \newtcbtheorem[auto counter,number within=chapter]{postulate}{\postulatename}{thmstyle}{pos}
-  \newtcbtheorem[auto counter,number within=chapter]{axiom}{\axiomname}{thmstyle}{axi}
-  \newtcbtheorem[auto counter,number within=chapter]{proposition}{\propositionname}{propstyle}{pro}
-  \newtcbtheorem[auto counter,number within=chapter]{corollary}{\corollaryname}{thmstyle}{cor}
-  \newtcbtheorem[auto counter,number within=chapter]{lemma}{\lemmaname}{thmstyle}{lem}
-}{\relax}
 
 \ifdefstring{\ELEGANT@mode}{simple}{
   \let\openbox\relax
@@ -581,56 +605,28 @@
   \let\proof\relax
   % \let\proofname\relax
   \let\endproof\relax
-  
+
   % declare a new theorem style
-  \newtheoremstyle{edefstyle}{3pt}{3pt}{\citshape}{-3pt}{
+  \newtheoremstyle{defstyle}{3pt}{3pt}{\citshape}{-3pt}{
     \bfseries\color{main}}{}{0.5em}{\thmname{#1} \thmnumber{#2} \thmnote{(#3)}}
-  \newtheoremstyle{ethmstyle}{3pt}{3pt}{\citshape}{-3pt}{
+  \newtheoremstyle{thmstyle}{3pt}{3pt}{\citshape}{-3pt}{
     \bfseries\color{second}}{}{0.5em}{\thmname{#1} \thmnumber{#2} \thmnote{(#3)}}
-  \newtheoremstyle{eprostyle}{3pt}{3pt}{\citshape}{-3pt}{
+  \newtheoremstyle{prostyle}{3pt}{3pt}{\citshape}{-3pt}{
     \bfseries\color{third}}{}{0.5em}{\thmname{#1} \thmnumber{#2} \thmnote{(#3)}}
 
 
-  \theoremstyle{edefstyle} % definition style
+  \theoremstyle{defstyle} % definition style
+  \newtheorem{definition}{\definitionname}[chapter]
 
-  \newtheorem{edefinition}{\definitionname}[chapter]
-  \newenvironment{definition}[2]{
-    \ifstrempty{#1}{\edefinition}{\edefinition[#1]}\ifstrempty{#2}{}{\label{def:#2}}}{
-    \endedefinition}
+  \theoremstyle{thmstyle} %theorem style
+  \newtheorem{theorem}{\theoremname}[chapter]
+  \newtheorem{lemma}{\lemmaname}[chapter]
+  \newtheorem{corollary}{\corollaryname}[chapter]
+  \newtheorem{postulate}{\postulatename}[chapter]
+  \newtheorem{axiom}{\axiomname}[chapter]
 
-
-  \theoremstyle{ethmstyle} %theorem style
-  
-  \newtheorem{etheorem}{\theoremname}[chapter]
-  \newenvironment{theorem}[2]{
-    \ignorespaces\ifstrempty{#1}{\etheorem}{\etheorem[#1]}\ifstrempty{#2}{}{\label{thm:#2}}}{
-    \endetheorem}
-
-  \newtheorem{elemma}{\lemmaname}[chapter]
-  \newenvironment{lemma}[2]{
-    \ignorespaces\ifstrempty{#1}{\elemma}{\elemma[#1]}\ifstrempty{#2}{}{\label{lem:#2}}}{
-    \endelemma}
-  
-  \newtheorem{ecorollary}{\corollaryname}[chapter]
-  \newenvironment{corollary}[2]{
-    \ignorespaces\ifstrempty{#1}{\ecorollary}{\ecorollary[#1]}\ifstrempty{#2}{}{\label{cor:#2}}}{
-    \endecorollary}
-  
-  \newtheorem{epostulate}{\postulatename}[chapter]
-  \newenvironment{postulate}[2]{
-    \ifstrempty{#1}{\epostulate}{\epostulate[#1]}\ifstrempty{#2}{}{\label{pos:#2}}}{
-    \endepostulate}
-  
-  \newtheorem{eaxiom}{\axiomname}[chapter]
-  \newenvironment{axiom}[2]{
-    \ifstrempty{#1}{\eaxiom}{\eaxiom[#1]}\ifstrempty{#2}{}{\label{axi:#2}}}{
-    \endaxiom}
-
-  \theoremstyle{eprostyle}
-  \newtheorem{eproposition}{\propositionname}[chapter]
-  \newenvironment{proposition}[2]{
-    \ifstrempty{#1}{\eproposition}{\eproposition[#1]}\ifstrempty{#2}{}{\label{pro:#2}}}{
-    \endeproposition}
+  \theoremstyle{prostyle} % proposition style
+  \newtheorem{proposition}{\propositionname}[chapter]
 }{\relax}
 
 % main（green-def): example exercise problem solution
@@ -810,8 +806,8 @@
       \node[opacity=0.8,
             anchor=south east,
             outer sep=0pt,
-            inner sep=0pt] at ($(current page.south east) +(-0.3in,1.7in)$) {
-              \ifcsname @logo\endcsname\includegraphics[width=13cm]{\@logo}\fi};
+            inner sep=0pt] at ($(current page.south east) +(-0.8in,1.5in)$) {
+              \ifcsname @logo\endcsname\includegraphics[width=4.2cm]{\@logo}\fi};
     \end{pgfonlayer}
   \end{tikzpicture}
   \end{minipage}
@@ -886,3 +882,5 @@
 \newenvironment{change}{
   \begin{enumerate}[label=\small\protect\circled{\arabic*}]}{
   \end{enumerate}}
+
+\addbibresource[location=local]{reference.bib}
